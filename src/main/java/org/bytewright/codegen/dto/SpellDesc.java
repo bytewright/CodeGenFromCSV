@@ -29,6 +29,16 @@ public class SpellDesc {
   private String seite;
   @CsvBindByPosition(position = 11)
   private String seiteEn;
+  @CsvBindByPosition(position = 12)
+  private String beschreibung;
+
+  public String getBeschreibung() {
+    return beschreibung.replace("++", "\\\\\n").replace("+","\n\\");
+  }
+
+  public void setBeschreibung(String beschreibung) {
+    this.beschreibung = beschreibung;
+  }
 
   public String getMaterial() {
     return komp.contains("M") ? "todo" : "-";
@@ -119,6 +129,8 @@ public class SpellDesc {
   }
 
   public String getQuelle() {
+    if (quelle.toLowerCase().contains("phb"))
+      return "Spielerhandbuch";
     return quelle.replaceAll(",", ", ");
   }
 

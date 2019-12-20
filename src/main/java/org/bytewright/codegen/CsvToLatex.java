@@ -63,18 +63,12 @@ public class CsvToLatex {
         + "\t\\end{tabular}\n"
         + "\\end{multicols}\n"
         + "{\\noindent \\Large\n"
-        + "TODO Description\n"
+        + spellDesc.getBeschreibung() + "\n"
         + "}\n"
         + "\\vfill\n"
         + "{\\noindent \\small\n"
         + String.format("EN: %s (S.%s)\\\\\n", spellDesc.getNameEn(), spellDesc.getSeiteEn())
         + String.format("Mögliche Klassen: %s\n", spellDesc.getKlasse())
         + "}\n");
-  }
-
-  private ICSVParser getParser() {
-    CSVParserBuilder parserBuilder = new CSVParserBuilder();
-    parserBuilder.withSeparator(';');
-    return parserBuilder.build();
   }
 }

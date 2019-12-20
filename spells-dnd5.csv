@@ -1,111 +1,111 @@
-﻿Name;Name(en);Stufe;Klasse;Schule;Ritual;Zeit;Komp.;Konz.;Quelle;Seite;Seite(en)
-Befall;Infestation;0;Druide Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;VGM;nein;XGE;150;158
-Donnerschlag;Thunderclap;0;Barde Druide Hexenmeister Magier Zauberer Artificer;Hervorrufung;nein;1 Aktion;G;nein;XGE,PotA,EEPC;152;168
-Einfache Illusion;Minor Illusion;0;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;GM;nein;PHB,SRD;223;260
-Erfrierung;Frostbite;0;Druide Hexenmeister Magier Zauberer Artificer;Hervorrufung;nein;1 Aktion;VG;nein;XGE,PotA,EEPC;154;156
-Freundschaft;Friends;0;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;GM;Konz.;PHB;232;244
-Gift versprühen;Poison Spray;0;Druide Hexenmeister Magier Zauberer Artificer;Beschwörung;nein;1 Aktion;VG;nein;PHB,SRD;236;266
-Kalte Hand;Chill Touch;0;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;nein;PHB,SRD;242;221
-Klingenbann;Blade Ward;0;Barde Hexenmeister Magier Zauberer;Bannzauber;nein;1 Aktion;VG;nein;PHB;243;218
-Lagerfeuer erschaffen;Create Bonfire;0;Druide Hexenmeister Magier Zauberer Artificer;Beschwörung;nein;1 Aktion;VG;Konz.;XGE,EEPC;160;152
-Magierhand;Mage Hand;0;Barde Hexenmeister Magier Zauberer Artificer;Beschwörung;nein;1 Aktion;VG;nein;PHB,SRD;247;256
-Magiestein;Magic Stone;0;Druide Hexenmeister Artificer;Verwandlung;nein;1 Bonus-Aktion;VG;nein;XGE,PotA,EEPC;161;160
-Schauriger Strahl;Eldritch Blast;0;Hexenmeister;Hervorrufung;nein;1 Aktion;VG;nein;PHB,SRD;260;237
-Taschenspielerei;Prestidigitation;0;Barde Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Aktion;VG;nein;PHB,SRD;271;267
-Totenläuten;Toll the Dead;0;Hexenmeister Kleriker Magier;Nekromantie;nein;1 Aktion;VG;nein;XGE;167;169
-Zielsicherer Schlag;True Strike;0;Barde Hexenmeister Magier Zauberer;Erkenntniszauber;nein;1 Aktion;G;Konz.;PHB,SRD;289;284
-Angst verursachen;Cause Fear;1;Hexenmeister Magier;Nekromantie;nein;1 Aktion;V;Konz.;XGE;150;151
-Arme von Hadar;Arms of Hadar;1;Hexenmeister;Beschwörung;nein;1 Aktion;VG;nein;PHB;213;215
-Hexenpfeil;Witch Bolt;1;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VGM;Konz.;PHB;240;289
-Höllischer Tadel;Hellish Rebuke;1;Hexenmeister;Hervorrufung;nein;1 reAktion;VG;nein;PHB,SRD;240;250
-Illusionsschrift;Illusory Script;1;Barde Hexenmeister Magier;Illusion;Ritual;1 Minute;GMgp;nein;PHB,SRD;241;252
-Person bezaubern;Charm Person;1;Barde Druide Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;nein;PHB,SRD;255;221
-Rascher Rückzug;Expeditious Retreat;1;Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Bonus-Aktion;VG;Konz.;PHB,SRD;257;238
-Rüstung von Agathys;Armor of Agathys;1;Hexenmeister;Bannzauber;nein;1 Aktion;VGM;nein;PHB;259;215
-Schutz vor Gut und Böse;Protection from Evil and Good;1;Hexenmeister Kleriker Magier Paladin;Bannzauber;nein;1 Aktion;VGM;Konz.;PHB,SRD;262;270
-Sprachen verstehen;Comprehend Languages;1;Barde Hexenmeister Magier Zauberer;Erkenntniszauber;Ritual;1 Aktion;VGM;nein;PHB,SRD;268;224
-Unsichtbarer Diener;Unseen Servant;1;Barde Hexenmeister Magier;Beschwörung;Ritual;1 Aktion;VGM;nein;PHB,SRD;277;284
-Verwünschen;Hex;1;Hexenmeister;Verzauberung;nein;1 Bonus-Aktion;VGM;Konz.;PHB;281;251
-Dolchwolke;Cloud of Daggers;2;Barde Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;VGM;Konz.;PHB;221;222
-Dunkelheit;Darkness;2;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VM;Konz.;PHB,SRD;223;230
-Erdbindung;Earthbind;2;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;V;Konz.;XGE,PotA,EEPC;154;154
-Fesseln;Enthrall;2;Barde Hexenmeister;Verzauberung;nein;1 Aktion;VG;nein;PHB,SRD;229;238
-Gedankendorn;Mind Spike;2;Hexenmeister Magier Zauberer;Erkenntniszauber;nein;1 Aktion;G;Konz.;XGE;156;162
-Krone des Wahnsinns;Crown of Madness;2;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;Konz.;PHB;244;229
-Nebelschritt;Misty Step;2;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Bonus-Aktion;V;nein;PHB,SRD;253;260
-Person festhalten;Hold Person;2;Barde Druide Hexenmeister Kleriker Magier Zauberer;Verzauberung;nein;1 Aktion;VGM;Konz.;PHB,SRD;255;251
-Schattenklinge;Shadow Blade;2;Hexenmeister Magier Zauberer;Illusion;nein;1 Bonus-Aktion;VG;Konz.;XGE;164;164
-Schwächestrahl;Ray of Enfeeblement;2;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VG;Konz.;PHB,SRD;263;271
-Spiegelbilder;Mirror Image;2;Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;VG;nein;PHB,SRD;266;260
-Spinnenklettern;Spider Climb;2;Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;266;277
-Unsichtbarkeit;Invisibility;2;Barde Hexenmeister Magier Zauberer Artificer;Illusion;nein;1 Aktion;VGM;Konz.;PHB,SRD;277;254
-Zerbersten;Shatter;2;Barde Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VGM;nein;PHB,SRD;288;275
-Beschwörung schwacher Dämonen;Summon Lesser Demons;3;Hexenmeister Magier;Beschwörung;nein;1 Aktion;VGM;Konz.;XGE;151;167
-Donnerschritt;Thunder Step;3;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;V;nein;XGE;152;168
-Feindüberschuss;Enemies Abound;3;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;Konz.;XGE;155;155
-Fliegen;Fly;3;Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;232;243
-Fluch brechen;Remove Curse;3;Hexenmeister Kleriker Magier Paladin;Bannzauber;nein;1 Aktion;VG;nein;PHB,SRD;232;271
-Furcht;Fear;3;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;VGM;Konz.;PHB,SRD;232;239
-Gasförmige Gestalt;Gaseous Form;3;Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;233;244
-Gegenzauber;Counterspell;3;Hexenmeister Magier Zauberer;Bannzauber;nein;1 reAktion;G;nein;PHB,SRD;235;228
-Hunger von Hadar;Hunger of Hadar;3;Hexenmeister;Beschwörung;nein;1 Aktion;VGM;Konz.;PHB;241;251
-Hypnotisches Muster;Hypnotic Pattern;3;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;GM;Konz.;PHB,SRD;241;252
-Magie bannen;Dispel Magic;3;Barde Druide Hexenmeister Kleriker Magier Paladin Zauberer Artificer;Bannzauber;nein;1 Aktion;VG;nein;PHB,SRD;247;234
-Mächtiges Trugbild;Major Image;3;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;VGM;Konz.;PHB,SRD;247;258
-Schutzkreis;Magic Circle;3;Hexenmeister Kleriker Magier Paladin;Bannzauber;nein;1 Minute;VGMgp;nein;PHB,SRD;262;256
-Vampirgriff;Vampiric Touch;3;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VG;Konz.;PHB,SRD;278;285
-Zungen;Tongues;3;Barde Hexenmeister Kleriker Magier Zauberer;Erkenntniszauber;nein;1 Aktion;VM;nein;PHB,SRD;289;283
-Beschwörung höherer Dämonen;Summon Greater Demon;4;Hexenmeister Magier;Beschwörung;nein;1 Aktion;VGM;Konz.;XGE;150;166
-Dimensionstür;Dimension Door;4;Barde Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;V;nein;PHB,SRD;221;233
-Dürre;Blight;4;Druide Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;nein;PHB,SRD;223;219
-Elementarverderben;Elemental Bane;4;Druide Hexenmeister Magier Artificer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;153;155
-Hüter des Glaubens;Guardian of Faith;4;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;V;nein;PHB,SRD;241;246
-Krankmachende Strahlung;Sickening Radiance;4;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VG;Konz.;XGE;160;164
-Monster bezaubern;Charm Monster;4;Barde Druide Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;nein;XGE;162;151
-Schatten der Moil;Shadow of Moil;4;Hexenmeister;Nekromantie;nein;1 Aktion;VGMgp;Konz.;XGE;163;164
-Scheingelände;Hallucinatory Terrain;4;Barde Druide Hexenmeister Magier;Illusion;nein;10 Minuten;VGM;nein;PHB,SRD;260;249
-Verbannung;Banishment;4;Hexenmeister Kleriker Magier Paladin Zauberer;Bannzauber;nein;1 Aktion;VGM;Konz.;PHB,SRD;278;217
-Ausspähung;Scrying;5;Barde Druide Hexenmeister Kleriker Magier;Erkenntniszauber;nein;10 Minuten;VGMgp;Konz.;PHB,SRD;216;273
-Entkräftung;Enervation;5;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;Konz.;XGE;154;155
-Fernschritt;Far Step;5;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Bonus-Aktion;V;Konz.;XGE;154;155
-Infernalisches Herbeirufen;Infernal Calling;5;Hexenmeister Magier;Beschwörung;nein;1 Minute;VGMgp;Konz.;XGE;157;158
-Kontakt zu anderen Ebenen;Contact Other Plane;5;Hexenmeister Magier;Erkenntniszauber;Ritual;1 Minute;V;nein;PHB,SRD;244;226
-Lichtwand;Wall of Light;5;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VGM;Konz.;XGE;160;170
-Monster festhalten;Hold Monster;5;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VGM;Konz.;PHB,SRD;251;251
-Negativer Energiefluss;Negative Energy Flood;5;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VM;nein;XGE;163;163
-Synaptisches Rauschen;Synaptic Static;5;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;nein;XGE;166;167
-Totentanz;Danse Macabre;5;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VG;Konz.;XGE;167;153
-Traum;Dream;5;Barde Hexenmeister Magier;Illusion;nein;1 Minute;VGM;nein;PHB,SRD;276;236
-Arkanes Tor;Arcane Gate;6;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;VG;Konz.;PHB;213;214
-Böser Blick;Eyebite;6;Barde Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;Konz.;PHB,SRD;218;238
-Feenwesen beschwören;Conjure Fey;6;Druide Hexenmeister;Beschwörung;nein;1 Minute;VG;Konz.;PHB,SRD;228;226
-Fleisch zu Stein;Flesh to Stone;6;Hexenmeister Magier;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;231;243
-Gefängnis für den Verstand;Mental Prison;6;Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;G;Konz.;XGE;156;161
-Investitur der Flammen;Investiture of Flame;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;158;159
-Investitur des Eises;Investiture of Ice;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;159;159
-Investitur des Gesteins;Investiture of Stone;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;159;159
-Investitur des Windes;Investiture of Wind;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;159;160
-Massen-Einflüsterung;Mass Suggestion;6;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VM;nein;PHB,SRD;249;258
-Seelenkäfig;Soul Cage;6;Hexenmeister Magier;Nekromantie;nein;1 reAktion;VGMgp;nein;XGE;164;165
-Streuung;Scatter;6;Hexenmeister Magier Zauberer;Bannzauber;nein;1 Aktion;V;nein;XGE;166;164
-Todeskreis;Circle of Death;6;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VGMgp;nein;PHB,SRD;274;221
-Untote erschaffen;Create Undead;6;Hexenmeister Kleriker Magier;Nekromantie;nein;1 Minute;VGMgp;nein;PHB,SRD;277;229
-Wahrer Blick;True Seeing;6;Barde Hexenmeister Kleriker Magier Zauberer;Erkenntniszauber;nein;1 Aktion;VGMgp;nein;PHB,SRD;283;284
-Ebenenwechsel;Plane Shift;7;Druide Hexenmeister Kleriker Magier Zauberer;Beschwörung;nein;1 Aktion;VGMgp;nein;PHB,SRD;223;266
-Energiekäfig;Forcecage;7;Barde Hexenmeister Magier;Hervorrufung;nein;1 Aktion;VGMgp;nein;PHB,SRD;226;243
-Finger des Todes;Finger of Death;7;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;nein;PHB,SRD;230;241
-Krone der Sterne;Crown of Stars;7;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VG;nein;XGE;160;152
-Wort der Macht: Schmerz;Power Word Pain;7;Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;V;nein;XGE;171;163
-Ätherische Gestalten;Etherealness;7;Barde Hexenmeister Kleriker Magier Zauberer;Verwandlung;nein;1 Aktion;VG;nein;PHB,SRD;214;238
-Halbebene;Demiplane;8;Hexenmeister Magier;Beschwörung;nein;1 Aktion;G;nein;PHB,SRD;238;231
-Monster beherrschen;Dominate Monster;8;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;Konz.;PHB,SRD;251;235
-Redegewandheit;Glibness;8;Barde Hexenmeister;Verwandlung;nein;1 Aktion;V;nein;PHB,SRD;257;245
-Schwachsinn;Feeblemind;8;Barde Druide Hexenmeister Magier;Verzauberung;nein;1 Aktion;VGM;nein;PHB,SRD;263;239
-Verrücktmachende Finsternis;Maddening Darkness;8;Hexenmeister Magier;Hervorrufung;nein;1 Aktion;VM;Konz.;XGE;168;160
-Wort der Macht: Betäubung;Power Word Stun;8;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;V;nein;PHB,SRD;287;267
-Astrale Projektion;Astral Projection;9;Hexenmeister Kleriker Magier;Nekromantie;nein;1 Stunde;VGMgp;nein;PHB,SRD;214;215
-Einkerkerung;Imprisonment;9;Hexenmeister Magier;Bannzauber;nein;1 Minute;VGMgp;nein;PHB,SRD;224;252
-Psychischer Schrei;Psychic Scream;9;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;G;nein;XGE;163;163
-Voraussicht;Foresight;9;Barde Druide Hexenmeister Magier;Erkenntniszauber;nein;1 Minute;VGM;nein;PHB,SRD;282;244
-Wahre Verwandlung;True Polymorph;9;Barde Hexenmeister Magier;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;283;283
-Wort der Macht: Tod;Power Word Kill;9;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;V;nein;PHB,SRD;287;266
+﻿Name;Name(en);Stufe;Klasse;Schule;Ritual;Zeit;Komp.;Konz.;Quelle;Seite;Seite(en);Beschreibung;TODO Description
+Befall;Infestation;0;Druide Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;VGM;nein;XGE;150;158;TODO Description
+Donnerschlag;Thunderclap;0;Barde Druide Hexenmeister Magier Zauberer Artificer;Hervorrufung;nein;1 Aktion;G;nein;XGE,PotA,EEPC;152;168;TODO Description
+Einfache Illusion;Minor Illusion;0;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;GM;nein;PHB,SRD;223;260;You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.++If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.++If you create an image of an object--such as a chair, muddy footprints, or a small chest--it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.++If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+Erfrierung;Frostbite;0;Druide Hexenmeister Magier Zauberer Artificer;Hervorrufung;nein;1 Aktion;VG;nein;XGE,PotA,EEPC;154;156;TODO Description
+Freundschaft;Friends;0;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;GM;Konz.;PHB;232;244;For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn’t hostile toward you.++When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you.++A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM’s discretion), depending on the nature of your interaction with it.
+Gift versprühen;Poison Spray;0;Druide Hexenmeister Magier Zauberer Artificer;Beschwörung;nein;1 Aktion;VG;nein;PHB,SRD;236;266;You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.++This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
+Kalte Hand;Chill Touch;0;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;nein;PHB,SRD;242;221;You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.++If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.++This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Klingenbann;Blade Ward;0;Barde Hexenmeister Magier Zauberer;Bannzauber;nein;1 Aktion;VG;nein;PHB;243;218;You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+Lagerfeuer erschaffen;Create Bonfire;0;Druide Hexenmeister Magier Zauberer Artificer;Beschwörung;nein;1 Aktion;VG;Konz.;XGE,EEPC;160;152;TODO Description
+Magierhand;Mage Hand;0;Barde Hexenmeister Magier Zauberer Artificer;Beschwörung;nein;1 Aktion;VG;nein;PHB,SRD;247;256;A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.++You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.++The hand can't attack, activate magic items, or carry more than 10 pounds.
+Magiestein;Magic Stone;0;Druide Hexenmeister Artificer;Verwandlung;nein;1 Bonus-Aktion;VG;nein;XGE,PotA,EEPC;161;160;TODO Description
+Schauriger Strahl;Eldritch Blast;0;Hexenmeister;Hervorrufung;nein;1 Aktion;VG;nein;PHB,SRD;260;237;A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.++The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+Taschenspielerei;Prestidigitation;0;Barde Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Aktion;VG;nein;PHB,SRD;271;267;This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:+begin{itemize}    +item You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.    +item You instantaneously light or snuff out a candle, a torch, or a small campfire.    +item You instantaneously clean or soil an object no larger than 1 cubic foot.    +item You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.    +item You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.    +item You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.+end{itemize}If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+Totenläuten;Toll the Dead;0;Hexenmeister Kleriker Magier;Nekromantie;nein;1 Aktion;VG;nein;XGE;167;169;TODO Description
+Zielsicherer Schlag;True Strike;0;Barde Hexenmeister Magier Zauberer;Erkenntniszauber;nein;1 Aktion;G;Konz.;PHB,SRD;289;284;You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses.++On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
+Angst verursachen;Cause Fear;1;Hexenmeister Magier;Nekromantie;nein;1 Aktion;V;Konz.;XGE;150;151;TODO Description
+Arme von Hadar;Arms of Hadar;1;Hexenmeister;Beschwörung;nein;1 Aktion;VG;nein;PHB;213;215;TODO Description
+Hexenpfeil;Witch Bolt;1;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VGM;Konz.;PHB;240;289;TODO Description
+Höllischer Tadel;Hellish Rebuke;1;Hexenmeister;Hervorrufung;nein;1 reAktion;VG;nein;PHB,SRD;240;250;TODO Description
+Illusionsschrift;Illusory Script;1;Barde Hexenmeister Magier;Illusion;Ritual;1 Minute;GMgp;nein;PHB,SRD;241;252;TODO Description
+Person bezaubern;Charm Person;1;Barde Druide Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;nein;PHB,SRD;255;221;TODO Description
+Rascher Rückzug;Expeditious Retreat;1;Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Bonus-Aktion;VG;Konz.;PHB,SRD;257;238;TODO Description
+Rüstung von Agathys;Armor of Agathys;1;Hexenmeister;Bannzauber;nein;1 Aktion;VGM;nein;PHB;259;215;TODO Description
+Schutz vor Gut und Böse;Protection from Evil and Good;1;Hexenmeister Kleriker Magier Paladin;Bannzauber;nein;1 Aktion;VGM;Konz.;PHB,SRD;262;270;TODO Description
+Sprachen verstehen;Comprehend Languages;1;Barde Hexenmeister Magier Zauberer;Erkenntniszauber;Ritual;1 Aktion;VGM;nein;PHB,SRD;268;224;TODO Description
+Unsichtbarer Diener;Unseen Servant;1;Barde Hexenmeister Magier;Beschwörung;Ritual;1 Aktion;VGM;nein;PHB,SRD;277;284;TODO Description
+Verwünschen;Hex;1;Hexenmeister;Verzauberung;nein;1 Bonus-Aktion;VGM;Konz.;PHB;281;251;TODO Description
+Dolchwolke;Cloud of Daggers;2;Barde Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;VGM;Konz.;PHB;221;222;TODO Description
+Dunkelheit;Darkness;2;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VM;Konz.;PHB,SRD;223;230;TODO Description
+Erdbindung;Earthbind;2;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;V;Konz.;XGE,PotA,EEPC;154;154;TODO Description
+Fesseln;Enthrall;2;Barde Hexenmeister;Verzauberung;nein;1 Aktion;VG;nein;PHB,SRD;229;238;TODO Description
+Gedankendorn;Mind Spike;2;Hexenmeister Magier Zauberer;Erkenntniszauber;nein;1 Aktion;G;Konz.;XGE;156;162;TODO Description
+Krone des Wahnsinns;Crown of Madness;2;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;Konz.;PHB;244;229;TODO Description
+Nebelschritt;Misty Step;2;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Bonus-Aktion;V;nein;PHB,SRD;253;260;TODO Description
+Person festhalten;Hold Person;2;Barde Druide Hexenmeister Kleriker Magier Zauberer;Verzauberung;nein;1 Aktion;VGM;Konz.;PHB,SRD;255;251;TODO Description
+Schattenklinge;Shadow Blade;2;Hexenmeister Magier Zauberer;Illusion;nein;1 Bonus-Aktion;VG;Konz.;XGE;164;164;TODO Description
+Schwächestrahl;Ray of Enfeeblement;2;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VG;Konz.;PHB,SRD;263;271;TODO Description
+Spiegelbilder;Mirror Image;2;Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;VG;nein;PHB,SRD;266;260;TODO Description
+Spinnenklettern;Spider Climb;2;Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;266;277;TODO Description
+Unsichtbarkeit;Invisibility;2;Barde Hexenmeister Magier Zauberer Artificer;Illusion;nein;1 Aktion;VGM;Konz.;PHB,SRD;277;254;TODO Description
+Zerbersten;Shatter;2;Barde Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VGM;nein;PHB,SRD;288;275;TODO Description
+Beschwörung schwacher Dämonen;Summon Lesser Demons;3;Hexenmeister Magier;Beschwörung;nein;1 Aktion;VGM;Konz.;XGE;151;167;TODO Description
+Donnerschritt;Thunder Step;3;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;V;nein;XGE;152;168;TODO Description
+Feindüberschuss;Enemies Abound;3;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;Konz.;XGE;155;155;TODO Description
+Fliegen;Fly;3;Hexenmeister Magier Zauberer Artificer;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;232;243;TODO Description
+Fluch brechen;Remove Curse;3;Hexenmeister Kleriker Magier Paladin;Bannzauber;nein;1 Aktion;VG;nein;PHB,SRD;232;271;TODO Description
+Furcht;Fear;3;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;VGM;Konz.;PHB,SRD;232;239;TODO Description
+Gasförmige Gestalt;Gaseous Form;3;Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;233;244;TODO Description
+Gegenzauber;Counterspell;3;Hexenmeister Magier Zauberer;Bannzauber;nein;1 reAktion;G;nein;PHB,SRD;235;228;TODO Description
+Hunger von Hadar;Hunger of Hadar;3;Hexenmeister;Beschwörung;nein;1 Aktion;VGM;Konz.;PHB;241;251;TODO Description
+Hypnotisches Muster;Hypnotic Pattern;3;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;GM;Konz.;PHB,SRD;241;252;TODO Description
+Magie bannen;Dispel Magic;3;Barde Druide Hexenmeister Kleriker Magier Paladin Zauberer Artificer;Bannzauber;nein;1 Aktion;VG;nein;PHB,SRD;247;234;TODO Description
+Mächtiges Trugbild;Major Image;3;Barde Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;VGM;Konz.;PHB,SRD;247;258;TODO Description
+Schutzkreis;Magic Circle;3;Hexenmeister Kleriker Magier Paladin;Bannzauber;nein;1 Minute;VGMgp;nein;PHB,SRD;262;256;TODO Description
+Vampirgriff;Vampiric Touch;3;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VG;Konz.;PHB,SRD;278;285;TODO Description
+Zungen;Tongues;3;Barde Hexenmeister Kleriker Magier Zauberer;Erkenntniszauber;nein;1 Aktion;VM;nein;PHB,SRD;289;283;TODO Description
+Beschwörung höherer Dämonen;Summon Greater Demon;4;Hexenmeister Magier;Beschwörung;nein;1 Aktion;VGM;Konz.;XGE;150;166;TODO Description
+Dimensionstür;Dimension Door;4;Barde Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;V;nein;PHB,SRD;221;233;TODO Description
+Dürre;Blight;4;Druide Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;nein;PHB,SRD;223;219;TODO Description
+Elementarverderben;Elemental Bane;4;Druide Hexenmeister Magier Artificer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;153;155;TODO Description
+Hüter des Glaubens;Guardian of Faith;4;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;V;nein;PHB,SRD;241;246;TODO Description
+Krankmachende Strahlung;Sickening Radiance;4;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VG;Konz.;XGE;160;164;TODO Description
+Monster bezaubern;Charm Monster;4;Barde Druide Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;nein;XGE;162;151;TODO Description
+Schatten der Moil;Shadow of Moil;4;Hexenmeister;Nekromantie;nein;1 Aktion;VGMgp;Konz.;XGE;163;164;TODO Description
+Scheingelände;Hallucinatory Terrain;4;Barde Druide Hexenmeister Magier;Illusion;nein;10 Minuten;VGM;nein;PHB,SRD;260;249;TODO Description
+Verbannung;Banishment;4;Hexenmeister Kleriker Magier Paladin Zauberer;Bannzauber;nein;1 Aktion;VGM;Konz.;PHB,SRD;278;217;TODO Description
+Ausspähung;Scrying;5;Barde Druide Hexenmeister Kleriker Magier;Erkenntniszauber;nein;10 Minuten;VGMgp;Konz.;PHB,SRD;216;273;TODO Description
+Entkräftung;Enervation;5;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;Konz.;XGE;154;155;TODO Description
+Fernschritt;Far Step;5;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Bonus-Aktion;V;Konz.;XGE;154;155;TODO Description
+Infernalisches Herbeirufen;Infernal Calling;5;Hexenmeister Magier;Beschwörung;nein;1 Minute;VGMgp;Konz.;XGE;157;158;TODO Description
+Kontakt zu anderen Ebenen;Contact Other Plane;5;Hexenmeister Magier;Erkenntniszauber;Ritual;1 Minute;V;nein;PHB,SRD;244;226;TODO Description
+Lichtwand;Wall of Light;5;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VGM;Konz.;XGE;160;170;TODO Description
+Monster festhalten;Hold Monster;5;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VGM;Konz.;PHB,SRD;251;251;TODO Description
+Negativer Energiefluss;Negative Energy Flood;5;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VM;nein;XGE;163;163;TODO Description
+Synaptisches Rauschen;Synaptic Static;5;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;nein;XGE;166;167;TODO Description
+Totentanz;Danse Macabre;5;Hexenmeister Magier;Nekromantie;nein;1 Aktion;VG;Konz.;XGE;167;153;TODO Description
+Traum;Dream;5;Barde Hexenmeister Magier;Illusion;nein;1 Minute;VGM;nein;PHB,SRD;276;236;TODO Description
+Arkanes Tor;Arcane Gate;6;Hexenmeister Magier Zauberer;Beschwörung;nein;1 Aktion;VG;Konz.;PHB;213;214;TODO Description
+Böser Blick;Eyebite;6;Barde Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;Konz.;PHB,SRD;218;238;TODO Description
+Feenwesen beschwören;Conjure Fey;6;Druide Hexenmeister;Beschwörung;nein;1 Minute;VG;Konz.;PHB,SRD;228;226;TODO Description
+Fleisch zu Stein;Flesh to Stone;6;Hexenmeister Magier;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;231;243;TODO Description
+Gefängnis für den Verstand;Mental Prison;6;Hexenmeister Magier Zauberer;Illusion;nein;1 Aktion;G;Konz.;XGE;156;161;TODO Description
+Investitur der Flammen;Investiture of Flame;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;158;159;TODO Description
+Investitur des Eises;Investiture of Ice;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;159;159;TODO Description
+Investitur des Gesteins;Investiture of Stone;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;159;159;TODO Description
+Investitur des Windes;Investiture of Wind;6;Druide Hexenmeister Magier Zauberer;Verwandlung;nein;1 Aktion;VG;Konz.;XGE,PotA,EEPC;159;160;TODO Description
+Massen-Einflüsterung;Mass Suggestion;6;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VM;nein;PHB,SRD;249;258;TODO Description
+Seelenkäfig;Soul Cage;6;Hexenmeister Magier;Nekromantie;nein;1 reAktion;VGMgp;nein;XGE;164;165;TODO Description
+Streuung;Scatter;6;Hexenmeister Magier Zauberer;Bannzauber;nein;1 Aktion;V;nein;XGE;166;164;TODO Description
+Todeskreis;Circle of Death;6;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VGMgp;nein;PHB,SRD;274;221;TODO Description
+Untote erschaffen;Create Undead;6;Hexenmeister Kleriker Magier;Nekromantie;nein;1 Minute;VGMgp;nein;PHB,SRD;277;229;TODO Description
+Wahrer Blick;True Seeing;6;Barde Hexenmeister Kleriker Magier Zauberer;Erkenntniszauber;nein;1 Aktion;VGMgp;nein;PHB,SRD;283;284;TODO Description
+Ebenenwechsel;Plane Shift;7;Druide Hexenmeister Kleriker Magier Zauberer;Beschwörung;nein;1 Aktion;VGMgp;nein;PHB,SRD;223;266;TODO Description
+Energiekäfig;Forcecage;7;Barde Hexenmeister Magier;Hervorrufung;nein;1 Aktion;VGMgp;nein;PHB,SRD;226;243;TODO Description
+Finger des Todes;Finger of Death;7;Hexenmeister Magier Zauberer;Nekromantie;nein;1 Aktion;VG;nein;PHB,SRD;230;241;TODO Description
+Krone der Sterne;Crown of Stars;7;Hexenmeister Magier Zauberer;Hervorrufung;nein;1 Aktion;VG;nein;XGE;160;152;TODO Description
+Wort der Macht: Schmerz;Power Word Pain;7;Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;V;nein;XGE;171;163;TODO Description
+Ätherische Gestalten;Etherealness;7;Barde Hexenmeister Kleriker Magier Zauberer;Verwandlung;nein;1 Aktion;VG;nein;PHB,SRD;214;238;TODO Description
+Halbebene;Demiplane;8;Hexenmeister Magier;Beschwörung;nein;1 Aktion;G;nein;PHB,SRD;238;231;TODO Description
+Monster beherrschen;Dominate Monster;8;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;VG;Konz.;PHB,SRD;251;235;TODO Description
+Redegewandheit;Glibness;8;Barde Hexenmeister;Verwandlung;nein;1 Aktion;V;nein;PHB,SRD;257;245;TODO Description
+Schwachsinn;Feeblemind;8;Barde Druide Hexenmeister Magier;Verzauberung;nein;1 Aktion;VGM;nein;PHB,SRD;263;239;TODO Description
+Verrücktmachende Finsternis;Maddening Darkness;8;Hexenmeister Magier;Hervorrufung;nein;1 Aktion;VM;Konz.;XGE;168;160;TODO Description
+Wort der Macht: Betäubung;Power Word Stun;8;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;V;nein;PHB,SRD;287;267;TODO Description
+Astrale Projektion;Astral Projection;9;Hexenmeister Kleriker Magier;Nekromantie;nein;1 Stunde;VGMgp;nein;PHB,SRD;214;215;TODO Description
+Einkerkerung;Imprisonment;9;Hexenmeister Magier;Bannzauber;nein;1 Minute;VGMgp;nein;PHB,SRD;224;252;TODO Description
+Psychischer Schrei;Psychic Scream;9;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;G;nein;XGE;163;163;TODO Description
+Voraussicht;Foresight;9;Barde Druide Hexenmeister Magier;Erkenntniszauber;nein;1 Minute;VGM;nein;PHB,SRD;282;244;TODO Description
+Wahre Verwandlung;True Polymorph;9;Barde Hexenmeister Magier;Verwandlung;nein;1 Aktion;VGM;Konz.;PHB,SRD;283;283;TODO Description
+Wort der Macht: Tod;Power Word Kill;9;Barde Hexenmeister Magier Zauberer;Verzauberung;nein;1 Aktion;V;nein;PHB,SRD;287;266;TODO Description
