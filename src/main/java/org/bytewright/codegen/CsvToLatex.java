@@ -10,8 +10,6 @@ import org.bytewright.codegen.dto.SpellDesc;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.opencsv.CSVParserBuilder;
-import com.opencsv.ICSVParser;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 
@@ -62,7 +60,7 @@ public class CsvToLatex {
         + String.format("\t\tQuelle: & %s (S.%s)\\\\\n", spellDesc.getQuelle(), spellDesc.getSeite())
         + "\t\\end{tabular}\n"
         + "\\end{multicols}\n"
-        + "{\\noindent \\Large\n"
+        + "{\\noindent " + (spellDesc.getBeschreibung().length() < 800 ? "\\Large" : "") + "\n"
         + spellDesc.getBeschreibung() + "\n"
         + "}\n"
         + "\\vfill\n"
