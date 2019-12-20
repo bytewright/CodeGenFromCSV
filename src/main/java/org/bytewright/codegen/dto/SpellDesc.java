@@ -141,4 +141,11 @@ public class SpellDesc {
   public void setSeiteEn(String seiteEn) {
     this.seiteEn = seiteEn;
   }
+
+  public String getSchuleLink() {
+    return schule
+        .replaceAll("ö", "oe")
+        .replaceAll("ä", "ae")
+        .replaceAll("ü", "ue");
+  }
 }

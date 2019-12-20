@@ -43,7 +43,7 @@ public class CsvToLatex {
   private Pair<Integer, String> toLatexSection(SpellDesc spellDesc) {
     return Pair.of(Integer.valueOf(spellDesc.getStufe()), "" +
         String.format("\\section*{%s}\n", spellDesc.getName())
-        + String.format("\\ThisLRCornerWallPaper{0.5}{images/%s.png}\n", spellDesc.getSchule())
+        + String.format("\\ThisLRCornerWallPaper{0.5}{images/%s.png}\n", spellDesc.getSchuleLink())
         + "\\begin{multicols}{2}\n"
         + "\t\\setlength{\\parindent}{0pt}\n"
         + "\t\\begin{tabular}{ l l }\n"
