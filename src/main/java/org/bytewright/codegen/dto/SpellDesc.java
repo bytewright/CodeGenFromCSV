@@ -33,7 +33,7 @@ public class SpellDesc {
   private String beschreibung;
 
   public String getBeschreibung() {
-    return beschreibung.replace("++", "\\\\\n").replace("+","\n\\");
+    return trimmed(beschreibung).replace("++", "\\\\\n").replace("+", "\n\\");
   }
 
   public void setBeschreibung(String beschreibung) {
@@ -45,7 +45,7 @@ public class SpellDesc {
   }
 
   public String getName() {
-    return name;
+    return trimmed(name);
   }
 
   public void setName(String name) {
@@ -53,7 +53,7 @@ public class SpellDesc {
   }
 
   public String getNameEn() {
-    return nameEn;
+    return trimmed(nameEn);
   }
 
   public void setNameEn(String nameEn) {
@@ -61,7 +61,7 @@ public class SpellDesc {
   }
 
   public String getStufe() {
-    return stufe;
+    return trimmed(stufe);
   }
 
   public void setStufe(String stufe) {
@@ -69,7 +69,7 @@ public class SpellDesc {
   }
 
   public String getKlasse() {
-    return klasse.replaceAll(" ", ", ");
+    return trimmed(klasse).replaceAll(" ", ", ");
   }
 
   public void setKlasse(String klasse) {
@@ -77,7 +77,7 @@ public class SpellDesc {
   }
 
   public String getSchule() {
-    return schule;
+    return trimmed(schule);
   }
 
   public void setSchule(String schule) {
@@ -85,7 +85,7 @@ public class SpellDesc {
   }
 
   public String getRitual() {
-    return "Ritual".equals(ritual) ? "Ja" : "-";
+    return "Ritual".equals(trimmed(ritual)) ? "Ja" : "-";
   }
 
   public void setRitual(String ritual) {
@@ -93,7 +93,7 @@ public class SpellDesc {
   }
 
   public String getZeit() {
-    return zeit;
+    return trimmed(zeit);
   }
 
   public void setZeit(String zeit) {
@@ -101,7 +101,7 @@ public class SpellDesc {
   }
 
   public String getKomp() {
-    String prepString = komp.replace("G", "-Geste-")
+    String prepString = trimmed(komp).replace("G", "-Geste-")
         .replace("V", "-Verbal-")
         .replace("M", "-Material-")
         .replaceAll("--", "-");
@@ -118,7 +118,7 @@ public class SpellDesc {
   }
 
   public String getKonz() {
-    if (Konz.equals("nein")) {
+    if (trimmed(Konz).equals("nein")) {
       return "";
     }
     return "Konzentration, ";
@@ -131,7 +131,7 @@ public class SpellDesc {
   public String getQuelle() {
     if (quelle.toLowerCase().contains("phb"))
       return "Spielerhandbuch";
-    return quelle.replaceAll(",", ", ");
+    return trimmed(quelle).replaceAll(",", ", ");
   }
 
   public void setQuelle(String quelle) {
@@ -139,7 +139,7 @@ public class SpellDesc {
   }
 
   public String getSeite() {
-    return seite;
+    return trimmed(seite);
   }
 
   public void setSeite(String seite) {
@@ -147,7 +147,7 @@ public class SpellDesc {
   }
 
   public String getSeiteEn() {
-    return seiteEn;
+    return trimmed(seiteEn);
   }
 
   public void setSeiteEn(String seiteEn) {
@@ -155,9 +155,13 @@ public class SpellDesc {
   }
 
   public String getSchuleLink() {
-    return schule
+    return trimmed(schule)
         .replaceAll("ö", "oe")
         .replaceAll("ä", "ae")
         .replaceAll("ü", "ue");
+  }
+
+  private String trimmed(String input) {
+    return input.trim();
   }
 }
