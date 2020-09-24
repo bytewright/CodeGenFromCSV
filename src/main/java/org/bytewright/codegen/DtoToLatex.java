@@ -45,18 +45,18 @@ public class DtoToLatex {
         + String.format("\t\tGrad: & %s\\\\\n", spellDefinition.getStufe())
         + String.format("\t\tZeitaufwand: & %s\\\\\n", spellDefinition.getZeit())
         + String.format("\t\tKomponenten: & %s\\\\\n", komponentsAccessor.get(spellDefinition))
-        + String.format("\t\tRitual: & %s\\\\\n", spellDefinition.getRitual())
         + "\t\\end{tabular}\n"
         + "\t\\columnbreak\n"
         + "\t\\begin{tabular}{ l l }\n"
         + String.format("\t\tDauer: & %s%s\\\\\n", spellDefinition.getKonz(), "?")
         + String.format("\t\tReichweite: & %s\\\\\n", "?")
         + String.format("\t\tZiel: & %s\\\\\n", "?")
-        + String.format("\t\tMaterial: & %s\\\\\n", spellDefinition.getMaterial())
-        + String.format("\t\tQuelle: & %s (S.%s)\\\\\n", quelleAccessor.get(spellDefinition), spellDefinition.getSeite())
+        + String.format("\t\tRitual: & %s\\\\\n", spellDefinition.getRitual())
         + "\t\\end{tabular}\n"
         + "\\end{multicols}\n"
         + "{\\noindent " + (spellDefinition.getBeschreibung().length() < 800 ? "\\Large" : "") + "\n"
+        + String.format("Material: %s\\\\\n", spellDefinition.getMaterial())
+        + String.format("Quelle: %s (S.%s)\\\\\n", quelleAccessor.get(spellDefinition), spellDefinition.getSeite())
         + spellDefinition.getBeschreibung() + "\n"
         + "}\n"
         + "\\vfill\n"
