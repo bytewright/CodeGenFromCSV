@@ -1,5 +1,9 @@
 
 DND spelllist from https://www.dnddeutsch.de/zaubersprueche/
+- Spielerhandbuch (PHB)
+- Abenteurerhandbuch der Schwertküste (SCAG)
+- Xanathars Ratgeber für Alles (XGE)
+----------
 
 csv replacing ...needs improvement:
 ````

@@ -1,0 +1,745 @@
+Name                                             ;Beschreibung
+Arkanes Siegel                                   ;Schreibt deine persönliche Rune auf ein Objekt oder eine Kreatur (sichtbar oder unsichtbar)
+Aufblitzen                                       ;Blendet eine Kreatur (-1 auf Angriffswürfe)
+Ausbessern                                       ;Kleinere Reparaturen an einem Gegenstand
+Ausbluten                                        ;Lässt eine eigentlich stabilisierte Kreatur sterben
+Benommenheit                                     ;Humanoide Kreatur mit 4 oder weniger TW verliert ihre nächste Aktion
+Botschaft                                        ;Geflüsterte Unterhaltung auf Entfernung
+Erschöpfende Berührung                           ;Berührungsangriff erschöpft Ziel
+Funken                                           ;Entzündet brennbare Objekte
+Geisterhaftes Geräusch                           ;Vorgetäuschtes Geräusch
+Gift entdecken                                   ;Entdeckt Gift in einer Kreatur oder einem kleinen Gegenstand
+Kältestrahl                                      ;Strahl verursacht 1W3 Kälteschaden
+Licht                                            ;Gegenstand leuchtet wie eine Fackel
+Magie entdecken                                  ;Entdeckt Zauber und magische Gegenstände innerhalb von 18 m
+Magie lesen                                      ;Du kannst Schriftrollen und Zauberbücher lesen
+Magierhand                                       ;Telekinese bis 5 Pfd
+Öffnen/Schließen                                 ;Öffnet oder schließt kleine oder leichte Gegenstände
+Resistenz                                        ;Ziel erhält +1 auf Rettungswürfe
+Säurespritzer                                    ;Kugel verursacht 1W3 Säureschaden
+Tanzende Lichter                                 ;Erschafft Fackeln und andere Lichter
+Untote schwächen                                 ;Verursacht 1W6 Schaden bei einer untoten Kreatur
+Verstörende Feenerscheinung                      ;Du umgibst dich mit der verstörenden Illusionen, die dich als Feenwesen erscheinen lassen. Bis zum ersten Treffer erhältst du SR 1/kaltes Eisen.
+Zaubertrick                                      ;Kleinere magische Tricks
+Alarm                                            ;Schützt einen Bereich 2 Stunden/ Stufe
+Allzweckmittel                                   ;Du erhältst einen von mehreren Effekten ohne Nbenwirkungen befürchten zu müssen.
+Ameisenstärke                                    ;Verdreifacht die Tragkraft einer Kreatur
+Augenblick der Größe                             ;Dieser Zauber verdoppelt einen Moralbonus.
+Austilgen                                        ;Lässt normale oder magische Schrift verschwinden
+Bauchreden                                       ;Projiziert deine Stimme 1 Min./ Stufe woanders hin
+Befreiender Befehl                               ;Das Ziel des Zaubers legt mit Hilfe einer augenblicklichen Aktion einen Fertigkeitswurf auf Entfesselungskunst und erhält einen Bonus in Höhe deiner doppelten Zauberstufe (max 20) auf diesen Wurf.
+Beschädigen                                      ;Ein Gegenstand erhält den Zustand Beschädigt
+Blick bannen                                     ;Dieser Zauber zwingt das Ziel, während der Wirkungsdauer des Zaubers, nur dich anzusehen.
+Brennende Hände                                  ;1W4 Feuerschaden pro Stufe (max. 5W4)
+Drachenfeuerwerk                                 ;Der Zauber erschafft ein Feuerwerk welches 1W4 Schaden macht und benommen macht.
+Dringlicher Schritt                              ;Du kannst dich langsam fortbewegen und Zauber und zauberähnliche Fähigkeiten Wirken, ohne einen Gelegenheitsangriff zu riskieren. Der Zauber endet, wenn du dich schneller bewegst, angreifst oder einen Schadenszauber wirkst.
+Durchschlagende Geschosse                        ;Pfeile verursachen Schaden, als wären sie größer
+Eisdolch                                         ;Du erschaffst einen Dolch [MA] aus Eis
+Elementen trotzen                                ;Du kannst problemlos in heißen oder kalten Umgebungen überleben
+Erzwungene Stille                                ;Du dämpfst jedes Geräusch um das Ziel herum und machst es unfähig zu schreien
+Federfall                                        ;Gegenstände und Kreaturen fallen langsam
+Feuchtes Pulver                                  ;Die Munition wird durch Nässe ruiniert. Jeder Versuch, die Waffe abzufeuern scheitert. Nach einem solchen Versucht braucht der Schütze eine Volle Aktion, um die Waffe zu reinigen. Erkennt der Schütze den Zauber, kann er die Munition mit einer Standartaktion aus der Waffe entfernen.
+Friedenssiegel                                   ;Du bindest die Waffe an die Scheide oder den Träger. Das ziehen der Waffe ist eine Standartaktion und benötigt einen Stärkewurf (SG=SG des Zaubers). Das Ziehen der Waffe verursacht Gelegenheitsangriffe.
+Furcht auslösen                                  ;Eine Kreatur mit 5 oder weniger TW flieht 1W4 Runden lang
+Gedächtnislücke                                  ;Ziel vergisst Ereignisse bis hin zu seinem letzten Zug
+Gefahrensinn                                     ;bis zu +5 auf Initiative
+Geheimtüren entdecken                            ;Enthüllt Geheimtüren innerhalb von 18 m
+Gesinnung sehen                                  ;Wenn du den Zauber wirkst wähle eine bestimmte Gesinnung. Du kannst Kreaturen dieser Gesinnung erkennen. Zauber und Effekte, welchen die Gesinnung verbergen, täuschen auch diesen Zauber.
+Handwerkers Fluch                                ;Ziel erhält -5 auf Handwerkswürfe
+Handwerkers Glück                                ;Ziel erhält +5 auf Handwerkswürfe
+Hauch der See                                    ;Deine Schwimmbewegungsrate steigt auf 9 m
+Hauch der Tollpatschigkeit                       ;Ziel verliert 1W6+1 GE/2 Stufen und geht eher zu Boden
+Hypnose                                          ;Fasziniert 2W4 TW an Kreaturen
+Identifizieren                                   ;Gewährt Bonus von +10 zum Identifizieren magischer Gegenstände
+Illusion der Ruhe                                ;Du scheinst völlig still zu stehen, selbst wenn du handelst. Du provozierst beim wirken eines Zaubers, beim werfen einer Wurfwaffe oder einer Bewegung aus deinem Feld keinen Gelegenheitsangriff.
+Jugendliche Erscheinung                          ;Du lässt das Ziel jünger erscheinen
+Kalte Hand                                       ;Eine Berührung/ Stufe, verursacht 1W6 Schaden und unter Umständen 1 Stärkeschaden
+Ki-Pfeil                                         ;Du kannst einen Pfeil bis zu 30m weit schleudern
+Kleines Monster herbeizaubern                    ;Du zauberst 1W3 kleine Kreaturen herbei
+Kränkelnder Strahl                               ;Strahl macht Ziel kränkelnd
+Kugel gießen                                     ;Der Zauber verwandelt ein Pfund Weichmetall in zwei Schleuderkugeln, 30 Feuerwaffenkugeln oder 10 Ladungen Streumunition.
+Leiche kompostieren                              ;Lässt das Fleisch einer Leiche verrotten
+Leiche verwandeln                                ;Verwandelt Leiche in andere Kreatur
+Leiche wiederherstellen                          ;Du kannst Fleisch auf einer verrotteten Kreatur wieder wachsen lassen
+Lichtblitze                                      ;Wie Aufblitzen, wirkt aber auf alle Kreaturen innerhalb von 3 m
+Luftblase                                        ;Der Zauber erlaubt einer Kreatur unter Wasser oder luftleerer Umgebung zu atmen oder schützt einen Gegenstand vor Wasserschaden.
+Magierrüstung                                    ;Ziel erhält +4 auf die RK
+Magische Aura                                    ;Ändert die magische Aura eines Gegenstands
+Magische Waffe                                   ;Waffe erhält Bonus von +1
+Magisches Geschoss                               ;"1W4+1 Schaden; +1 Geschoss pro zwei Stufen über der ersten (max. 5)"
+Monster herbeizaubern I                          ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Negative Reaktion                                ;Das Ziel erleidet einen Malus von -10 auf Bluffen, Diplomatie, Einschüchtern sowie auf alle Schaukampfwürfe.
+Ohrenbetäubender Schrei                          ;Verursache Schallschaden und mache das Ziel benommen.
+Person bezaubern                                 ;Macht eine Person zu deinem Freund
+Person vergrößern                                ;Humanoide Kreatur wächst zum Doppelten ihrer Größe an
+Person verkleinern                               ;Humanoide Kreatur schrumpft auf die Hälfte ihrer Größe
+Pforte zuhalten                                  ;Hält eine Tür zu
+Pfusch                                           ;Ziel erleidet einen Malus von -20 bei seinem nächsten Angriff oder Wurf.
+Pulver schwächen                                 ;Die Reichweite der Feuerwaffe wird halbiert und erleidet einen Malus von -2 auf den Schaden.
+Rascher Rückzug                                  ;Deine Bewegungsrate steigt um 9 m
+Rasches Graben                                   ;Bewegt 1,50 m-Würfel an Erde
+Reichlich Munition                               ;Der Zauber ersetzt zu Beginn jeder Runde jedes nichtmagisches Geschoss, welches in der vorherigen Runde dem Munitionsbehälter entnommen wurde.
+Reittier                                         ;Beschwört ein Reittier für 2 Stunden/ Stufe
+Schattenwaffe                                    ;Erschaffe eine quasi-reale Waffe [Meisterarbeit].
+Schild                                           ;Unsichtbarer Schild verleiht +4 auf die RK, wehrt Magische Geschosse ab
+Schlaf                                           ;Lässt 4 TW an Kreaturen in einen magischen Schlaf fallen
+Schlagloch                                       ;Kleines Loch lässt Kreaturen stolpern
+Schmieren                                        ;Macht eine 3 m x 3 m Fläche oder Gegenstand rutschig
+Schockgriff                                      ;Berührung verursacht 1W6 Elektrizitätsschaden/ Stufe (max. 5)
+Schockschild                                     ;Magischer Schild gibt +2 Schildbonus und absorbiert Magisches Geschoss. Beendest du den Zauber mit einer freien Aktion fügt er allen Kreaturen in 1,5 m 1W6 Elektrizitätsschaden zu (Reflex halbiert).
+Schutz vor Bösem                                 ;+2 auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung
+Schutz vor Chaos                                 ;+2 auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung
+Schutz vor Gutem                                 ;+2 auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung
+Schutz vor Ordnung                               ;+2 auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung
+Schwächestrahl                                   ;Strahl verursacht 1W6+1 Stärkeschaden für je 2 Stufen
+Schwebende Scheibe                               ;Erzeugt eine waagrechte Scheibe mit einem Durchmesser von 90 cm, die 100 Pfd./ Stufe tragen kann
+Seil beleben                                     ;Ein Seil bewegt sich auf deinen Befehl hin
+Selbstüberschätzung                              ;Ziel erleidet Mali auf Angriffe und Würfe, erhält aber Boni gegen Bezauberung und Zwang.
+Selbstverkleidung                                ;Ändert dein Aussehen
+Spiegelschlag                                    ;Du kannst mehrere Gegner mit einem Schlag treffen.
+Sprachen verstehen                               ;Du kannst alle gesprochenen und geschriebenen Sprachen verstehen
+Springen                                         ;Ziel erhält Bonus auf Würfe für Akrobatik
+Sprühende Farben                                 ;Macht Kreaturen bewusstlos, blind und/oder betäubt sie
+Steinfaust                                       ;Deine unbewaffneten Hiebe sind tödlich
+Stilles Trugbild                                 ;Erschafft eine kleinere Illusion nach deinen Vorstellungen
+Stimme verändern                                 ;Verändere die Stimme des Zieles.
+Tanzende Laterne                                 ;Animiert eine Laterne, die dir dann folgt
+Treffsichere Waffe                               ;Waffe erhält einen Bonus von +2 (+1 auf der 4. Stufe und alle 4 weiteren Stufen) zur Bestätigung von kritischen Treffern.
+Unauffälliger Diener                             ;Unsichtbare Kraft befolgt deine Befehle
+Untote entdecken                                 ;Entdeckt untote Kreaturen innerhalb von 18 m
+Unvorbereiteter Gegner                           ;Ziel erleidet Mali von -4 auf Initiative- und Reflexwürfe.
+Verhör                                           ;Ziel beantwortet Fragen oder erleidet Schmerzen.
+Verhüllender Nebel                               ;Nebel umgibt dich
+Verschwinden                                     ;Wie Unsichtbarkeit, aber nur 1 Runde/ Stufe (max. 5)
+Waffe oder Rüstung verstärken                    ;Härte der Waffe/Rüstung wird verdoppelt und verliert die Eigenschaft zerbrechlich bzw. verleiht die Eigenschaft Meisterarbeit.
+Wasserstrahl                                     ;Eine Wasserwelle führt einen Ansturm gegen einen Gegner aus
+Weiter Schuss                                    ;Der Zauber erhöht die Grundreichweite deiner genutzten Fernkampfwaffen um +3 m.
+Windstärke anpassen                              ;Erhöhe oder schwäche die Kraft natürlicher Winde
+Zersetzender Hauch                               ;Berührungsangriff verursacht 1W4 Säureschaden / Stufe.
+Zielsicherer Schlag                              ;+20 auf deinen nächsten Angriffswurf
+Zusammenflicken                                  ;Für kurze Zeit werden die Mali des Gegenstands durch den Zustand beschädigt aufgehoben.
+Ameisenstärke, Gemeinschaftliche                 ;Verdreifacht die Tragkraft der Kreaturen. Du kannst die Wirkungsdauer in 2-Stunden-Intervallen zwischen den berührten Kreaturen aufteilen.
+Andere verkleiden                                ;Wie Selbstverkleidung nur auf andere Kreaturen
+Arkanes Schloss                                  ;Verschließt eine Pforte oder Truhe auf magische Weise
+Ausdauer des Ochsen                              ;Ziel erhält 1 Min./ Stufe +4 KO
+Bärenstärke                                      ;Ziel erhält 1 Min./ Stufe +4 ST
+Besessene Haut                                   ;Du erschaffst ein Ebenbild Deiner selbst aus deiner Haut und kannst mit Ihr handeln
+Bewunderung                                      ;Du erhältst einen Moralbonus von +2 auf Diplomatie und Schaukampfwürfe.
+Blind- oder Taubheit kurieren                    ;Heilt normale oder magische Blind- oder Taubheit
+Blind- oder Taubheit verursachen                 ;Macht ein Ziel blind oder taub
+Blutendes Auge                                   ;Eine berührte Nahkampfwaffe (Hieb) verursacht fortan Blutungsschaden in Höhe der halben Zauberstufe am Kopf des Gegners. Das Ziel erhält durch Blutungsschaden Abzüge auf alle Angriffswürfe.
+Brennender Blick                                 ;Verursacht 1W6 Feuerschaden bei einer Kreatur
+Dämmerstaub                                      ;Schwarze Staubkörner löschen Lichtquellen
+Dauerhafte Flamme                                ;Erzeugt ein dauerhaftes Licht, das keine Wärme verbreitet
+Defensive Entladung                              ;Du hüllst deinen Körper in Elektrizität welche Angreifern Schaden zufügt
+Donnerschuss                                     ;Die Munition der Zielfeuerwaffe macht Gegner taub.
+Drückende Langeweile                             ;Du erfüllst dein Ziel mit Langeweile sodass es nicht handeln will.
+Dunkelheit                                       ;Übernatürliche Schatten in einem Radius von 6 m
+Dunkelsicht                                      ;Du kannst in absoluter Dunkelheit 18 m weit sehen
+Einfaches Trugbild                               ;Wie Stilles Trugbild, auch mit Geräuschen
+Elementare Zungen                                ;Gibt dir die Fähigkeit, mit Elementaren und anderen Kreaturen zu sprechen
+Elementen trotzen, Gemeinschaftliches            ;Du kannst problemlos in heißen oder kalten Umgebungen überleben. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den berührten Kreaturen aufteilen.
+Energien widerstehen                             ;Du kannst 10 (oder mehr) Schadenspunkte/Angriff durch eine Art von Energie ignorieren
+Entstellende Berührung                           ;Du entstellst das Ziel und fügst eines der folgenden Mali zu: -2 Attribut, -2 Angriffs und Rettungswürfe, Bewegung um 1,5 m gesenkt
+Erschrecken                                      ;Versetzt Kreaturen mit weniger als 6 TW in Panik
+Falsches Leben                                   ;Du erhältst 1W10 temporäre TP +1/ Stufe (max. +10)
+Fehlzündung provozieren                          ;Der Zauber lässt Munition zu Fehlzündungen neigen. Der Fehlzündungsbereich steigt um 1 +1 pro 5 Zauberstufen (+5 auf 20. Stufe)
+Feuerspeien                                      ;Atme beliebig oft einen Flammenkegel aus
+Feuerwerk                                        ;Verwandelt Feuer in blendendes Licht oder erstickenden Rauch
+Feurige Schuriken                                ;Du erschaffst 2 feurige Geschosse+ 1 weiteres Geschoss für je 2 Zauberstufen ab der 5 Zauberstufe (3 Geschosse, max. 8 auf 15. Stufe). Jedes Geschoss verursacht 1w8 Feuerschaden und benötigt einen Berührungsangriff auf Entfernung.
+Flammenkugel                                     ;Erschafft eine rollende Feuerkugel, 3W6 Feuerschaden
+Fürchterlicher Lachanfall                        ;Ziel kann 1 Runde/ Stufe nicht handeln
+Gedanken wahrnehmen                              ;Du kannst oberflächliche Gedanken wahrnehmen
+Gegenstand aufspüren                             ;Spürt die Richtung, in der sich ein Gegenstand befindet (bestimmter Gegenstand oder Art)
+Gegenstand verbergen                             ;Verbirgt Gegenstand vor Ausspähung
+Geisterhafte Verkleidung                         ;Du siehst wie ein Geist aus
+Geisterhand                                      ;Erschafft eine körperlose, leuchtende Hand, die Berührungsangriffe ausführen kann
+Gestalt verändern                                ;Du nimmst die Gestalt eines kleinen oder mittelgroßen Humanoiden an
+Geteilte Erinnerung                              ;Du kannst Erinnerungen mit einem Ziel teilen
+Ghulhand                                         ;Lähmt ein Ziel, das dann einen Gestank verströmt, der andere in der Nähe krank macht
+Gift beschleunigen                               ;Beschleunigt das Einsetzen der Wirkung eines Giftes
+Giftanfälligkeit                                 ;Ziel erhält -4 auf RW gegen Gift und Gifteffekte werden verlängert
+Gleiten                                          ;Du erleidest keinen Schaden durch Stürze und bewegst dich beim Fallen 18 m/Runde
+Glitzerstaub                                     ;Blendet Kreaturen und macht die Umrisse unsichtbarer Kreaturen sichtbar
+Grube erschaffen                                 ;Erzeugt eine extradimensionale Grube
+Hauch der Elemente                               ;Erhalte einen Berührungsangriff mit Energieschaden
+Hauch des Stumpfsinns                            ;Ziel erhält einen Malus von 1W6 auf IN, WE und CH
+Hypnotisches Muster                              ;Fasziniert (2W4 + Stufe) TW an Kreaturen
+Irreführung                                      ;Führt Erkenntniszauber gegen eine Kreatur oder einen Gegenstand in die Irre
+Kalter Hauch                                     ;Berührung verursacht 4W6 Schaden und lässt das Ziel wanken
+Katzenhafte Anmut                                ;Ziel erhält 1 Min./ Stufe +4 GE
+Kinetische Resonanz                              ;Sollte das Ziel des Zauber Schaden durch eine Waffe erleiden, nimmt die Waffe Schaden in Höhe des Schadens, der gegen das Ziel ausgewürfelt wurde, sofern der Waffe ein Zähigkeitswurf misslingen sollte.
+Klopfen                                          ;Öffnet eine normal oder magisch verschlossene Tür
+Kochendes Blut                                   ;Du lässt das Blut deines Zieles kochen und fügst 1 Punkt Feuerschaden/Runde zu
+Kugelschild                                      ;Das Ziel erhält einen Ablenkungsbonus von +4 (+1/je fünf Stufen, max +8 auf der 20. Stufe) auf die RK gegen Feuerwaffen- und Fernangriffe.
+Lehren des Blutes                                ;Du kannst durch trinken des Blutes eines toten Zauberkundigen einen Zaubers dessen zu erlernen
+Magischer Mund                                   ;Spricht, wenn er ausgelöst wird
+Magisches Belagerungsgerät                       ;Das Belagerungsgerät erhält einen Verbesserungsbonus von +1 auf Ziel- und Schadenswürfe.
+Meisterarbeit                                    ;Verwandelt einen gewöhnlichen Gegenstand in eine Meisterarbeit.
+Mitfühlender Verbündeter                         ;Ziel wird gezwungen, einem verletzten Verbündeten zu helfen.
+Mitleid                                          ;Gegner können eine Mitleid erregende Kreatur nicht angreifen.
+Monster herbeizaubern II                         ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Monsterbenommenheit                              ;Lebende Kreaturen mit 6 oder weniger TW verliert ihre nächste Aktion
+Nachladende Hände                                ;Der Zauber lädt einmal die Runde eine Fernkampf- oder Schusswaffe ab. Die Munition gilt als magisch in Hinblick auf Überwindung von SR.
+Nebelwolke                                       ;Nebel behindert die Sicht
+Pfeilexplosion                                   ;Erzeugt Kopien eines Pfeiles, der in der vorigen Runde eine Kreatur getötet hat
+Phantomfalle                                     ;Lässt eine illusionäre Falle an einem Gegenstand erscheinen
+Plündernde Hand                                  ;Mit diesem Zauber kannst du das Kampfmanöver Entwaffnen oder Entreißen innerhalb der Reichweite durchführen. Alternativ kannst die Fertigkeit Mechanismus einschalten oder Fingerfertigkeit, um einen Gegenstand zu stehlen, innerhalb der Reichweite durchführen.
+Pracht des Adlers                                ;Ziel erhält 1 Min./ Stufe +4 CH
+Querschläger                                     ;Du kannst für je drei Zauberstufen ein Geschoss (max. 6 auf 18. Stufe) abprallen lassen. Triffst du das Primärziel, kannst du gegen ein weiteres Ziel innerhalb von 6 m einen weiteren Angriffswurf ablegen.
+Raum verzerren                                   ;Die Nahkampfangriffe einer Kreatur treffen nicht das anvisierte Ziel sondern ein zufällig bestimmtes Ziel.
+Reittier, Gemeinschaftliches                     ;Beschwört bis zu 6 Ponys oder leichte Reitpferde. Die Wirkungsdauer des Zaubers wird unter diesen Tieren aufgeteilt.
+Reparieren                                       ;Repariert ein Objekt
+Rückstoß                                         ;Die Feuerwaffe feuert plötzlich von selbst und bringt den Träger so aus dem Gleichgewicht, so dass diese bis zu Beginn ihres nächsten Zuges als auf den falschen Fuß erwischt gilt. War diese dies beim Wirken des Zaubers bereits, wird die Zielkreatur zu Boden geworden.
+Säurepfeil                                       ;"Berührungsangriff auf Entfernung; 1 Runde +1 Runde/3 Stufen 2W4 Schaden"
+Schatzkarte erschaffen                           ;Macht aus einer Leiche eine Schatzkarte
+Schläue des Fuchses                              ;Ziel erhält 1 Min./ Stufe +4 IN
+Schmerz verzögern                                ;Ignoriere Schmerzen für 1 Stunde / Stufe.
+Schüttelfrost                                    ;Ziel leidet unter schwerer Kälte.
+Schutz vor Bösem, Gemeinschaftlicher             ;+2 Ablenkungsbonus auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung. Du kannst die Wirkungsdauer in 1-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Schutz vor Chaos, Gemeinschaftlicher             ;+2 Ablenkungsbonus auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung. Du kannst die Wirkungsdauer in 1-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Schutz vor Gutem, Gemeinschaftlicher             ;+2 Ablenkungsbonus auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung. Du kannst die Wirkungsdauer in 1-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Schutz vor Ordnung, Gemeinschaftlicher           ;+2 Ablenkungsbonus auf die RK und Rettungswürfe, zusätzlicher Schutz gegen die gewählte Gesinnung. Du kannst die Wirkungsdauer in 1-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Schutz vor Pfeilen                               ;Ziel erhält SR 10/Magie gegen Fernkampfangriffe
+Schützende Bänder                                ;Energiebänder schützen vor Wuchtschaden.
+Schützende Waffe                                 ;Die Waffe schwebt über deinen Kopf und schützt dich. Du kannst daher Zaubern, ohne Gelegenheitsangriffe zu riskieren (und muss daher nicht defensiv zaubern).
+Schützender Schatten                             ;Schatten schützen das Ziel vor Licht.
+Schwarm herbeizaubern                            ;Beschwört einen Schwarm Fledermäuse, Ratten oder Spinnen
+Schweben                                         ;Ziel bewegt sich nach deinen Vorgaben nach oben oder unten
+Seide zu Stahl                                   ;Nutze einen Schal als Schild oder Peitsche.
+Seiltrick                                        ;Bis zu acht Kreaturen können sich in einem außerdimensionalen Raum verstecken
+Sengender Strahl                                 ;Berührungsangriff auf Entfernung, verursacht 4W6 Feuerschaden, +1 Strahl/4 Stufen (max. 3)
+Sicherer Halt                                    ;Ziel erhält einen Kompetenzbonus von +4 auf Klettern, Akrobatik fürs Balancieren und KMV gegen Ansturm, Ziehen, Versetzen und Zu-Fall-bringen. Außerdem wird es gegen Entwaffnen immun.
+Simulakrum formen                                ;Verändere das Äußere eines Simulakrums.
+Skrupel                                          ;Die Kreatur ist von Zweifeln erfüllt und erhält einen Malus von -10 auf Attributs-, Fertigkeits- und Konzentrationswürfe. Zauber kann beendet werden, wenn das Ziel eine Runde nichts tut. Um Fokus zurückzuerlangen.
+Spiegelbilder                                    ;Erschafft Doppelgänger deiner selbst
+Spinnenklettern                                  ;Verleiht die Fähigkeit, an Wänden und Decken zu klettern
+Spinnennetz                                      ;6 m großer Radius wird mit klebrigen Spinnenfäden gefüllt, die Feinde umklammern und ihre Bewegung behindern können
+Spontane Selbstentzündung                        ;Das Ziel erleidet 3W6 Feuerschaden und fängt Feuer (erfolgreicher Zähigkeit halbiert Schaden und verhindert, dass das Ziel Feuer fängt).
+Sprache weitergeben                              ;Ziel versteht ausgewählte Sprache
+Spuknebel                                        ;Kreaturen sind erschüttert und erleiden WE-Schaden.
+Steinschlag                                      ;Kreaturen im Wirkungsbereich erleiden 2W6 Schaden
+Stimme rauben                                    ;Ziel wird mit der Zauberplage: Krächzen infiziert.
+Symbol des Spiegelbildes                         ;Ausgelöste Rune erzeugt Spiegelbilder.
+Taktisches Können                                ;Du erhältst verbesserte Boni auf Grund deiner Positionierung, z. B. beim In die Zange nehmen, Angriffen von erhöhten Positionen oder Deckung.
+Telekinetisches Zusammenbauen                    ;Du kannst ein Belagerungsgerät mit weniger Arbeiter als üblich zusammensetzen.
+Tieraspekt                                       ;Du erhältst einige Vorzüge eines Tieres.
+Unsichtbares sehen                               ;Enthüllt unsichtbare Kreaturen oder Gegenstände
+Unsichtbarkeit                                   ;Ziel wird für 1 Min./ Stufe unsichtbar oder bis es angreift
+Unterschlupf aus Spinnennetz                     ;Erschaffe einen komfortablen Unterschlupf aus Spinnennetzen.
+Untote befehligen                                ;Untote Kreaturen gehorchen deinen Befehlen
+Verlangen                                        ;Ziel wird gezwungen, jemand anderen zu küssen oder zu streicheln.
+Verlässliches Pulver                             ;Die Munition neigt weniger zu Fehlzündungen.
+Verschwimmen                                     ;Angriffe gegen das Ziel unterliegen einer Fehlschlagchance von 20%
+Waffe oder Rüstung verstärken, Gemeinschaftliches;Härte der Waffen/Rüstungen wird verdoppelt und verliert die Eigenschaft zerbrechlich bzw. verleiht die Eigenschaft Meisterarbeit. Du kannst die Wirkungsdauer in 10-Min.-Intervallen zwischen den berührten Waffen/Rüstungen aufteilen.
+Waffenumgang verleihen                           ;Das Ziel gilt als geübt mit einer Waffe, welche diese in der Hand hält, wenn du den Zauber wirkst.
+Wahnvorstellungen                                ;Ziel erleidet Mali auf mentale Aktionen.
+Weisheit der Eule                                ;Ziel erhält 1 Min./ Stufe +4 WE
+Wellenritt                                       ;Welle erhöht Bewegungsrate einer Kreatur
+Wildheit des Dachses                             ;Solange du dich konzentrierst, besitzen Waffen die Eigenschaft Schärfe.
+Windgeflüster                                    ;Sendet eine kurze Nachricht über 1,5 km/ Stufe
+Windstoß                                         ;Weht kleinere Kreaturen weg oder wirft die um
+Wintereinbruch                                   ;Kreaturen im Wirkungsbereich erhalten 2W6 Kälteschaden und müssen eine Zähigkeit-RW schaffen, oder sind 1 Runde wankend. Während der restlichen Wirkungsdauer erhalten Kreaturen im Wirkungsbereich 1W6 Kälteschaden (Zähigkeit halbiert).
+Zerbersten                                       ;Schallwellen beschädigen Gegenstände und kristalline Kreaturen
+Zurückkehrende Waffe                             ;Die Waffe erhält die besondere Waffeneigenschaft Rückkehr.
+Abscheu                                          ;Erfüllt das Ziel mit Übelkeit, solange es nahe bei einer anderen bestimmten Kreatur befindet
+Absorbierende Barriere                           ;Dieser Zauber schützt das Ziel mit Hüllen aus Energie. +2 Rüstungsbonus, wandelt die ersten 5 Punkte tödlichen Schaden in nichttödlichen Schaden um (5 Punkte pro Zauberstufe, max. 50)
+Affenschwarm herbeizaubern                       ;Erzeugt einen Affenschwarm (PF MHB II, S. 191) welcher ablenkt und Gegenstände an sich reißt
+Anthropomorphes Tier                             ;Der Zauber verändert ein Tier in eine Humanoide Hybridform.
+Arkaner Blick                                    ;Du kannst magische Auren wahrnehmen
+Aschesturm                                       ;Die Asche behindert JEDE Sicht. Boden wird schwieriges Gelände.
+Bestiengestalt I                                 ;Du nimmst die Gestalt eines kleinen oder mittelgroßen Tieres an und erhälst einige seiner Fähigkeiten
+Blendende Verpuffung                             ;Die Munition der Zielfeuerwaffe erzeugt beim Abfeuern einen grellen Blitz, welcher den Schützen der Waffe als auch alle um ihn herum blenden kann.
+Blick durch eigene Augen                         ;Verlagert dein Bewusstsein in ein Objekt, das dein Bild trägt
+Blitz                                            ;Elektrizität verursacht 1W6 Schaden/ Stufe
+Brennende Schmerzen                              ;Verursacht 1W6 nicht-tödlichen Schaden für 1 Runde/ Stufe
+Devolution                                       ;Eidolon verliert zeitweilig 1 Evolution +1/5 Stufen
+Drakonisches Reservoir                           ;Ziel kann Energieschaden absorbieren und Nahkampfangriffe damit verstärken
+Dunkelsicht, Gemeinschaftliche                   ;Berührte Kreaturen können in absoluter Dunkelheit 18 m weit sehen. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den berührten Kreaturen aufteilen.
+Einflüsterung                                    ;Bringt ein Ziel dazu, eine vorgeschlagene Handlung auszuführen
+Eiterpusteln                                     ;Deine Haut wird von Eiterbeulen übersät welche bei einem Angreifer 1W6 Punkte Säureschaden verursachen
+Elementaraura                                    ;Erzeugt eine Energieaura um dich herum
+Energiefaust                                     ;Verursacht bei erfolgreichem Berührungsangriff 1W4/ Stufe (max. 10W4) Energieschaden und drückt das Ziel zurück
+Energien widerstehen. Gemeinschaftliches         ;Du kannst 10 (oder mehr) Schadenspunkte/Angriff durch eine Art von Energie ignorieren. Du kannst die Wirkungsdauer in 10-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Entkräftender Strahl                             ;Strahl entkräftet Ziel
+Explosive Runen                                  ;Verursachen 6W6 Schaden, wenn sie gelesen werden
+Feuerball                                        ;1W6 Schaden pro Stufe, 6 m Radius
+Flammenpfeil                                     ;Pfeil verursacht +1W6 Feuerschaden
+Fliegen                                          ;Ziel kann mit einer Bewegungsrate von 18 m fliegen
+Flimmern                                         ;Du verschwindest und erscheinst 1 Runde/ Stufe lang zufällig
+Froschschwarm herbeizaubern                      ;Du zauberst einen Froschschwarm herbei welcher Schaden und KO-Schaden verursacht
+Furchtbarer Schmerz                              ;Ziele erhalten durch Schmerz -2 auf RK, Angr., Schaden und REF
+Gasförmige Gestalt                               ;Ziel wird körperlos und kann langsam fliegen
+Gedanken suchen                                  ;Entdeckt die Gedanken denkender Wesen
+Gegenstand schrumpfen                            ;Gegenstand schrumpft auf ein Sechzehntel seiner Größe
+Gegner schweben lassen                           ;Das Ziel schwebt wenige cm über dem Boden, hat nur die halbe Bewegungsrate und einen Malus von -4 auf KMV gegen Ansturm. Versetzen und Zerren. Das Zeil erleidet ferner Abzüge auf Nah- und Fernkampfangriffen.
+Geisterross                                      ;Magisches Pferd erscheint für 1 Stunde/ Stufe
+Geschichte des Blutes                            ;Erfahre etwas über eine Kreatur anhand ihres Blutes
+Graben                                           ;Ziel erhält Bewegungsart Graben
+Harzige Haut                                     ;Du bedeckst deinen Körper mit einer Harzigen Substanz erhältst SR 5 Stichwaffen und Situationsboni von +4 KMV gegen Entwaffnen und RW gegen ähnliche Effekte, +2 KMB beim Ringen. Waffen, die dich treffen, können an dir kleben bleiben.
+Hast                                             ;Eine Kreatur/ Stufe kann sich schneller bewegen, erhält +1 auf Angriffswürfe, RK und Reflexwürfe
+Heilung stehlen                                  ;Immer wenn das Ziel durch einen Heilungseffekt TP zurück erhält, heilt es nur die Hälfte, die andere Hälfte heilst du. Der Zauber endet, wenn du dich vom Ziel weiter als 7,5 m (+1,5 m pr 2 Zauberstufen) entfernst oder du 5 TP pro Zauberstufe (max. 50 TP) gestohlen hast.
+Heldenmut                                        ;+2 auf Angriffs-, Rettungs- und Fertigkeitswürfe
+Hellhören/Hellsehen                              ;Du kannst 1 Min./ Stufe auf Entfernung sehen oder hören
+Höllische Vision                                 ;Du erschaffst eine Illusion einer Höllenlandschaft welche -2 auf RW gegen Furcht verursacht
+Illusionsschrift                                 ;Nur der intendierte Leser kann die Schrift lesen
+Injiziernde Berührung                            ;Du kannst während der Wirkungsdauer ein Elixier, ein Extrakt, ein Gift oder ein Zaubertrank mit einem Berührungsangriff im Nahkampf übermitteln.
+Kette des Verhängnisses                          ;Du erschaffst eine Kette aus Energie. Diese kann die Kampfmanöver Schmutziger Trick, Versetzen. Zerren und Zu-Fall-Bringen ausführen.
+Ki-Raub                                          ;Du kannst mit kritischen Treffern Ki-Punkte stehlen
+Mächtige Magische Waffe                          ;+1/4 Stufen (max. +5)
+Mächtiges Trugbild                               ;Wie Stilles Trugbild, auch mit Geräuschen, Gerüchen und Temperatureffekten
+Magie bannen                                     ;Beendet einen Zauber oder magischen Effekt
+Monster herbeizaubern III                        ;Ruft extraplanare Kreaturen herbei, die an deiner Seite kämpfen
+Monstergestalt I                                 ;Nimm die Gestalt und einige Kräfte eines kleinen oder mittelgroßen monströsen Humanoiden an.
+Mördergrube                                      ;Wie Grube erschaffen, aber mit Dornen versehen
+Person festhalten                                ;Lähmt einen Humanoiden für 1 Runde/ Stufe
+Phantomfahrzeuglenker                            ;Du erschafft eine kleine oder mittelgroße Kreatur, welche für dich jedes Fahrzeug lenken kann, welches ihm zugewiesen wird.
+Puppenspieler                                    ;Wie Magisches Gefäß, aber auf Sichtweite begrenzt.
+Sand der Zeit                                    ;Ziel altert vorübergehend.
+Sanfte Ruhe                                      ;Konserviert eine Leiche
+Schärfen                                         ;Verdoppelt die normale Bedrohungschance einer Waffe
+Schleier des Ekels                               ;Schwachen Kreaturen wird übel und/oder sie kränkeln.
+Schmerzhafte Verunstaltung                       ;Ziel erleidet GE- und KO-Schaden.
+Schneesturm                                      ;Behindert die Sicht und Bewegungen
+Schrotexplosion                                  ;Explosion verursacht 1W8 Stichschaden/2 Stufen (max. 5W8). Je nach Metall kann SR überwunden werden (Kaltes Eisen 50 GM, Silber 20 GM, Adamant 100 GM)
+Schutz vor Energien                              ;Absorbiert 12 Punkte Schaden/ Stufe durch eine Art von Energie
+Schutz vor Pfeilen, Gemeinschaftlicher           ;Ziele erhalten SR 10/Magie gegen Fernkampfangriffe. Du kannst die Wirkungsdauer in 1-Stunden.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Schützendes Lagerfeuer                           ;Erzeugt ein sicheres Gebiet um ein Lagerfeuer
+Schutzkreis gegen Böses                          ;Wie Schutzzauber, aber in einem Radius von 3 m und 10 Min./ Stufe
+Schutzkreis gegen Chaos                          ;Wie Schutzzauber, aber in einem Radius von 3 m und 10 Min./ Stufe
+Schutzkreis gegen Gutes                          ;Wie Schutzzauber, aber in einem Radius von 3 m und 10 Min./ Stufe
+Schutzkreis gegen Ordnung                        ;Wie Schutzzauber, aber in einem Radius von 3 m und 10 Min./ Stufe
+Schwäche aufspüren                               ;Wenn du einen kritischen Treffer erzielst, würfele zweimal und behalte das höhere Ergebnis. Zusätzlicher Schaden oder Präzisionsschaden ist hiervon nicht betroffen.
+Schwächeres Tote beleben                         ;Erschaffe ein Skelett oder einen Zombie.
+Schwarzlicht                                     ;Bereich totaler Finsternis, keine Durchsicht möglich. Gegenzauber zu Tageslicht
+Sphäre der Unsichtbarkeit                        ;Macht jeden innerhalb von 3 m unsichtbar
+Spinnenklettern, Gemeinschaftliches              ;Verleiht die Fähigkeit, an Wänden und Decken zu klettern. Du kannst die Wirkungsdauer in 10-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Sprache weitergeben, Gemeinschaftliches          ;Ziele verstehen ausgewählte Sprache. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den berührten Kreaturen aufteilen.
+Standort vortäuschen                             ;Angriffe gegen das Ziel unterliegen einer Fehlschlagchance von 50%
+Stinkende Wolke                                  ;Übelkeitserregende Dämpfe für 1 Runde/ Stufe
+Störende Kakophonie                              ;Lärm erschwert zaubern.
+Sturzflut                                        ;Wasserflut führt Ansturm gegen jede Kreatur in ihrem Weg aus
+Tageslicht                                       ;Helles Licht in einem Radius von 18 m
+Tiefschlaf                                       ;Lässt 10 TW an Kreaturen einschlafen
+Tintenschlange                                   ;Erzeugt Symbol im Text, das den Leser lähmt
+Unauffindbarkeit                                 ;Verbirgt ein Ziel vor Erkenntnismagie und Ausspähung
+Untote festsetzen                                ;Macht untote Kreaturen 1 Runde/ Stufe bewegungslos
+Untotengestalt I                                 ;Nimm die Gestalt und einige Kräfte eines kleinen oder mittelgroßen Untoten an.
+Vampirgriff                                      ;"Berührung verursacht 1W6 Schaden/2 Stufen; Zaubernder erhält dieselbe Menge als TP"
+Verborgene Seite                                 ;Verändert eine Seite so, dass sie ihren wahren Inhalt verbirgt
+Vergiftung weitergeben                           ;Ziel erleidet die Effekte eines in dir befindlichen Giftes.
+Verlangsamen                                     ;Ein Ziel/ Stufe darf nur eine Aktion/Runde ausführen, erhält -1 auf RK, Reflex- und Angriffswürfe
+Vernarrtheit                                     ;Ziel wird gezwungen, in der Nähe eines anderen zu bleiben.
+Versanden                                        ;Erzeugt schwieriges Gelände und verwischt Spuren. Kann Kreaturen und Gegenstände bewegen
+Vielseitige Waffe                                ;Waffe durchdringt einige SR
+Wasser atmen                                     ;Ziele können unter Wasser atmen
+Wasserkugel                                      ;Erzeugt rollende Kugel aus Wasser
+Welpengestalt                                    ;Dieser Zauber verwandelt das Ziel eine jüngere und niedlichere Version. Nicht Böse Kreaturen müssen einen Willen RW ablegen, wenn diese das Ziel angreifen wollen.
+Windumhang                                       ;Erzeugt Vorhang aus Wind um dich herum
+Windwall                                         ;Lenkt Pfeile, kleinere Kreaturen und Gase ab
+Winzige Hütte                                    ;Erschafft einen Unterschlupf für 10 Kreaturen
+Würgende Haare                                   ;Dein Haar wird belebt und versucht, andere in einen Ringkampf zu verstricken.
+Wut                                              ;Ziel erhält +2 ST und KO, +1 auf Willenswürfe, -2 auf die RK
+Zahllose Augen                                   ;Zusätzliche Augen verleihen Rundumsicht.
+Zauberfieber                                     ;Ziel wird mit der Zauberplage: Magische Übelkeit infiziert.
+Zungen                                           ;Du kannst jede Sprache sprechen
+Zurückkehrende Waffe, Gemeinschaftliche          ;Die Waffen erhalten die besondere Waffeneigenschaft Rückkehr. Du kannst die Wirkungsdauer in 1-Min-Intervallen zwischen den Waffen aufteilen.
+Zwielichtsklinge                                 ;Schwebendes Messer greift mit dir an
+Ansteckung                                       ;Infiziert Ziel mit ausgewählter Krankheit
+Arkanes Auge                                     ;Unsichtbares schwebendes Auge bewegt sich 9m/Runde
+Ausspähung                                       ;Spioniert ein Ziel auf Entfernung aus
+Ausspähung entdecken                             ;Macht dich auf magische Beobachtungen aufmerksam
+Benannte Kugel                                   ;Dieser Zauber verleiht der Zielmunition (oder einer Wurfwaffe) tödliche Genauigkeit und Zusatzschaden von +1 Stufe (max 20) gegen eine bestimmte Kreatur oder Kreaturenart.
+Bestiengestalt II                                ;Du nimmst die Gestalt eines sehr kleinen oder bis zu großen Tieres sowie einige seiner Eigenschaften an
+Blitzkugeln                                      ;Fliegende Blitzkugeln verursachen je 3W6 Elektrizitätsschaden
+Bösartigkeit                                     ;Du lässt eine Kreatur eine andere unbändig hassen.
+Brüllen                                          ;Macht alle in einem Kegel taub und verursacht 5W6 Schallschaden
+Detonation                                       ;Verursacht 1W8/ Stufe Energieschaden gegen alle Kreaturen innerhalb von 4,50 m
+Dimensionsanker                                  ;Verhindert außerdimensionale Bewegungen
+Dimensionstür                                    ;Teleportiert dich über kurze Entfernungen
+Drachenodem                                      ;Verleiht dir die Odemwaffe eines Drachen
+Eins mit dem Vertrauten                          ;Du kannst deine Seele in dienen Vertrauten transferieren.
+Eissturm                                         ;Hagel verursacht in einem 12 m breiten Zylinder 5W6 Schaden
+Eiswand                                          ;Erschafft eine Mauer oder Halbkugel aus Eis
+Elementargestalt I                               ;Du nimmst die Gestalt eines kleinen Elementars an
+Energiefesseln                                   ;Du fesselst ein Ziel an einen Punkt von dem es sich nicht weiter als 9m wegbewegen kann
+Entkräftung                                      ;Ziel erhält 1W4 negative Stufen
+Entsetzliches Bedauern                           ;Du erfüllst das Ziel mit derart heftigem Bedauern das es sich selbst verletzt oder für 1 Runde keine Aktionen ausführen kann
+Externare quälen                                 ;Du quälst einen beschworenen Externar mit Energiegeschoßen und machen es so unterwürfig.
+Fehlfunktion                                     ;Ziel verhält sich 1 Runde/ Stufe lang seltsam
+Fels- und Ascheregen                             ;Ziele im Wirkungsbereich erhalten 5 W6 Schaden und andere Nachteile
+Fester Nebel                                     ;Behindert die Sicht und verlangsamt Bewegungen
+Feuerfalle                                       ;Geöffneter Gegenstand verursacht 1W4 +1/ Stufe Schaden
+Feuerschild                                      ;"Kreaturen, die dich angreifen, erleiden Feuerschaden; du bist vor Hitze oder Kälte geschützt"
+Feuerwand                                        ;Verursacht 2W4 Feuerschaden bis zu 3 m und 1W4 Feuerschaden bis zu 6 m. Das Durchdringen der Wand verursacht 2W6 Schaden +1/ Stufe
+Flammenfontäne                                   ;Feuer bricht aus und verursacht 2W6 Feuerschaden
+Fleischwurmbefall                                ;Würmer im Ziel machen 1W6 TP und 2 Punkte GE-Schaden und lassen das Ziel wanken
+Fluch                                            ;"-6 auf Attributswert; -4 auf Angriffs-, Rettungs- und Fertigkeitswürfe oder 50 % Chance bei jeder Aktion, diese zu verlieren"
+Fluch brechen                                    ;Befreit einen Gegenstand oder eine Person von einem Fluch
+Fluch der Zauberplage                            ;Du infizierst das Ziel mit der Zauberplage: Zauberblockade
+Furcht                                           ;Ziele innerhalb des Kegels fliehen 1 Runde/ Stufe
+Geisterross, Gemeinschaftliches                  ;Bis zu sechs magische Pferd erscheinen. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den herbeigezauberten Kreaturen aufteilen.
+Geladene Spiegelbilder                           ;Dieser Zauber funktioniert wie Spiegelbilder. Zerstört ein Gegner eines der Spiegelbilder mit einem Nahkampfangriff, erhält es 2w& Elektrizitätsschaden, sofern du die Zauberresistenz des Gegners überwinden kannst.
+Herbeigezauberte Kreatur konrollieren            ;Du übernimmst die Kontrolle über eine herbeigezauberte Kreatur eines Anderen
+Illusionswand                                    ;Wände, Boden oder Decke sehen real aus, können aber durchquert werden
+Kind der Wellen                                  ;Du kannst Wasser atmen und sehr gut schwimmen
+Kreatur aufspüren                                ;Enthüllt die Richtung, in der sich eine vertraute Kreatur aufhält
+Mächtige Dunkelsicht                             ;Das Ziel erhält Dunkelsicht mir 36m
+Mächtige Falsches Leben                          ;Du erhältst 2W10 temporäre TP +1/ Stufe (max. +20)
+Mächtige Unsichtbarkeit                          ;Wie Unsichtbarkeit, Ziel kann aber angreifen, ohne sichtbar zu werden
+Magisches Belagerungsgerät, Mächtiges            ;Das Belagerungsgerät erhält einen Verbesserungsbonus von +1 pro vier Zauberstufen (max. +5) auf Ziel- und Schadenswürfe.
+Massen- Benommenheit                             ;Humanoide Kreaturen verlieren ihre nächste Aktion
+Massen- Person vergrößern                        ;Wie Person vergrößern, betrifft aber 1 humanoide Kreatur/ Stufe
+Massen- Person verkleinern                       ;Wie Person verkleinern, betrifft aber 1 humanoide Kreatur/ Stufe
+Mondsucht                                        ;Ziel ist verwirrt und wütend
+Monster bezaubern                                ;Lässt ein Monster glauben, es sei dein Verbündeter
+Monster herbeizaubern IV                         ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Monstergestalt II                                ;Nimm die Gestalt und einige Kräfte eines sehr kleinen oder großen monströsen Humanoiden an.
+Niedere Erschaffung                              ;Erschafft einen Gegenstand aus Stoff oder Holz
+Obsidianscholle                                  ;Der Boden kurz in flüssiges Glas verwandelt und wird danch zum schwierigen Gelände. Kreaturen im Wirkungsbereich erleiden 1W6 Feuerschaden/2Stufen (max. 10W6) und werden verstrickt (bei gelungenem RW halber Schaden und keine Verstrickung)
+Phantomstreitwagen                               ;Du erschaffst einen quasi-realen Streitwagen mit vier pferdeartigen Kreaturen, welcher bis zu 6 Passagiere tragen kann. Der Wagen verursacht keine Geräusche und erhält verschiedene Kräfte wie beim Zauber Geisterross beschrieben.
+Regenbogenmuster                                 ;Lichter faszinieren 24 TW an Kreaturen
+Säuregrube                                       ;Erzeugt eine Grube, in der sich Säure befindet
+Säureschild                                      ;Wie Feuerschild, verursacht aber Säureschaden.
+Schattenbeschwörung                              ;Ahmt Beschwörungen nach, die niedriger als 4. Grad sind, sind aber nur zu 20% real
+Schattengang                                     ;Teleportiere von einem Schatten zum nächsten.
+Schattenprojektion                               ;Werde zeitweilig zum Schatten
+Scheingelände                                    ;Lässt eine Geländeart wie eine andere Art von Gelände aussehen (Feld als Wald, etc.)
+Schleimige Hand                                  ;Berührung infiziert ein Ziel mit Grünschleim.
+Schutz vor Energie, Gemeinschaftlicher           ;Absorbiert 12 Punkte Schaden/Stufe durch eine Art von Energie. Du kannst die Wirkungsdauer in 1-Min.-Intervallen zwischen den berührten Kreaturen aufteilen.
+Schwächere Kugel der Unverwundbarkeit            ;Hält Effekte von Zaubern des 1.-3. Grades auf
+Schwächere Resistenz gegen Alterung              ;Ignoriere Mali aufgrund mittleren Alters.
+Schwächerer Geas                                 ;Befiehlt Zielen mit 7 oder weniger TW
+Schwarze Tentakel                                ;Tentakel winden sich um alle innerhalb einer Ausbreitung von 6 m
+Sicherer Unterschlupf                            ;Erschafft eine stabile Hütte
+Sinne teilen                                     ;Höre/Rieche/Sieh wo dein Vertrauter sich befindet
+Stein formen                                     ;Gibt Stein eine beliebige Form
+Steinhaut                                        ;Gewährt SR 10/Adamant
+Symbol der Enthüllung                            ;Ausgelöste Rune enthüllt Illusionen.
+Symbol des Verlangsamens                         ;Ausgelöste Rune verlangsamt Kreaturen.
+Telekinetischer Sturmangriff                     ;Du schleuderst einen Verbündeten über das Schlachtfeld. Der Verbündete kann am Ende eine augenblickliche Aktion aufwenden, um einen Angriff mit einem Bonus von +2 auszuführen.
+Tiefe Verzweiflung                               ;Ziel erleidet -2 auf Angriffs-, Schadens-, Rettungs- und Fertigkeitswürfe
+Tieraspekt, Mächtiger                            ;Der Zauber funktioniert wie Tieraspekt, aber du kannst dir entweder zwei Vorzüge aussuchen oder einen verbesserten Vorzug wählen.
+Tödliches Phantom                                ;Furchteinflößende Illusion tötet Ziel oder verursacht 3W6 Schaden
+Tote beleben                                     ;Erschafft untote Skelette und Zombies
+Überwältigende Trauer                            ;Trauerndes Ziel kann keine Aktionen ausführen und verliert ihren GE-Bonus.
+Unauffindbarkeit, Gemeinschaftliche              ;Verbirgt Ziele vor Erkenntnismagie und Ausspähung. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den berührten Kreaturen und Gegenständen aufteilen.
+Ungeziefergestalt I                              ;Nimm die Gestalt und einige Kräfte eines kleinen oder mittelgroßen Ungeziefers an.
+Unverwüstliche Sphäre                            ;Energiesphäre schützt ein Ziel, hält es aber auch gefangen
+Versteinernder Hauch                             ;Berührung verlangsamt Ziel und verursacht 1W4 GE-Schaden
+Verwirrung                                       ;Ziel verhält sich 1 Runde/ Stufe lang seltsam
+Wahre Gestalt                                    ;Entfernt Effekte, die Gestaltwechsel erzeugen
+Wanderndes Sternenfunkeln                        ;Erhellt Ziel und produziert Licht
+Windstrom                                        ;Erzeugt Wind, der nicht-tödlichen Schaden verursacht und Kreaturen zu Boden werfen oder wegschieben kann
+Zungen, Gemeinschaftliche                        ;Berührte Kreaturen können jede Sprache sprechen. Du kannst die Wirkungsdauer in 10-Min-Intervallen zwischen den berührten Kreaturen aufteilen.
+Albtraum                                         ;Schickt eine Nachricht, die 1W10 Schaden verursacht und erschöpft
+Arkane Spiegelung                                ;Wie Scheingelände, plus Gebäude
+Ätzbrand                                         ;1. Runde: 1 Säureschaden / Stufe (max.15) 2. Runde: 1W4 Säureschaden / Stufe (max.15W4) 3. Runde 1W6 Säureschaden / Stufe (max.15W6)
+Äußerlichkeiten                                  ;Verändert das Aussehen einer Person/2 Stufen
+Ausspähende Augen                                ;1W4 +1/ Stufe schwebende Augen spionieren für dich
+Behindernde Hand                                 ;Hand verleiht Deckung gegen einen Gegner
+Belagerungsenergiegeschoss                       ;Ein großes Belagerungsgerät verursacht Energieschaden. Abhängig von der gewählten Energieart werden auch andere Effekte verursacht.
+Beschwörer mitverletzen                          ;Sobald die herbeigezauberte Kreatur oder Eidolon schaden erleidet, nimmt auch der Beschwörer Schaden.
+Bestiengestalt III                               ;Du kannst die Gestalt eines winzigen oder bis zu riesigen Tieres oder einer kleinen oder mittelgroßen magischen Bestie annehmen
+Blitzbogen                                       ;Du erzeugst einen Blitz zwischen zwei Zielen. Er erzeugt 1W6 (max.15W6) Elektrizitätsschaden pro Stufe
+Böswillige Verwandlung                           ;Verwandelt das Ziel in ein harmloses Tier
+Dauerhaftigkeit                                  ;Macht manche Zauber permanent
+Des Magiers Privates Heiligtum                   ;Hindert jeden für 24 Stunden daran, einen Bereich zu sehen oder auszuspähen
+Des Magiers Treuer Hund                          ;Phantomhund, der angreifen und bewachen kann
+Dürre                                            ;Lässt eine Pflanze verdorren oder verursacht 1W6 Schaden/ Stufe bei einer Pflanzenkreatur
+Echolot                                          ;Du erzeugst Hohe Töne die als Echo dienen. So erhältst du Blindgespür 12m
+Eigenständiges Trugbild                          ;Wie Mächtiges Trugbild, erfordert aber keine Konzentration
+Eisgefängnis                                     ;Du hüllst das Ziel in Eis mit 2,5 cm/ZS und machst es hilflos und fügst Schaden zu
+Elementargestalt II                              ;Du kannst die Gestalt eines mittelgroßen Elementars annehmen
+Energiewand                                      ;Wand ist immun gegen Schaden
+Ersticken                                        ;Das Ziel erstickt
+Falsche Erkenntnis                               ;Täuscht Ausspähungen mit einer Illusion
+Feindseliger Austausch                           ;Du erzeugt eine intradimensionale Verbindung mit der Zielkreatur. Wirst du Ziel eines Angriffs oder Schadenzaubers kannst du mit einer augenblicklichen Aktion per Teleportation den Platz mit der Zielkreatur tauschen.
+Fels zu Schlamm verwandeln                       ;Verwandelt zwei Würfel/ Stufe mit jeweils 3 m Kantenlänge
+Feuerschlange                                    ;Erzeugt schlängelnden Feuerstrom, der 1,50 m/ Stufe lang ist und 1W6 Feuerschaden/ Stufe verursacht
+Fluch des Ekels                                  ;Du lässt das Ziel vor etwas ekeln sodass es kränkelt
+Fortschicken                                     ;Zwingt eine Kreatur dazu, auf ihre Heimatebene zurückzukehren
+Gedankennebel                                    ;Ziele im Nebel erhalten -10 auf WE- und Willenswürfe
+Gegenstand kontrollieren                         ;Ermöglicht es dir von einem Gegenstand 'Besitz' zu ergreifen
+Geheime Truhe                                    ;"Versteckt eine teure Truhe auf der Ätherebene; du kannst sie jeder Zeit zurückholen"
+Gestickter Schatz                                ;Gegenstände auf einem Stück Stoff werden eingestickt
+Geysir                                           ;Erzeugt einen Geysir aus kochendem Wasser
+Giftigkeit absorbieren                           ;Du bist gegen Gifte und Krankheiten immun. Du kannst während der Wirkungsdauer einmal ein Gift oder Krankheit absorbieren und an einem anderen weiter geben,. Dies beendet den Zauber.
+Höhere Erschaffung                               ;Wie Niedere Erschaffung, kann aber auch Stein und Metall erzeugen
+Hungrige Grube                                   ;Wie Grube erschaffen, aber verursacht 4W6 Schaden, wenn sie sich schließt
+Kältekegel                                       ;1W6 Kälteschaden/ Stufe
+Klingenkranz                                     ;Der Zauber erweckt 4 Mithraldolche zum Leben, die um dich herumwirbeln, nahe Kreaturen angreifen und dich beim Wirken von Zaubern vor Gelegenheitsangriffen schützen.
+Konstrukt beruhigen                              ;Du senkst die %-Chance um 1W4% /4Zauberstufen das ein Konstrukt zum Berserker wird
+Kontakt zu anderen Ebenen                        ;Du kannst einer extraplanaren Wesenheit Fragen stellen
+Magisches Gefäß                                  ;Ermöglicht es, von einer anderern Kreatur Besitz zu ergreifen
+Massen- Brennende Schmerzen                      ;Wie Brennende Schmerzen, betrifft aber mehrere Kreaturen
+Monster festhalten                               ;Wie Person festhalten, wird aber nicht durch die Art der Kreatur eingeschränkt
+Monster herbeizaubern V                          ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Monstergestalt III                               ;Nimm die Gestalt und einige Kräfte eines winzigen oder riesigen monströsen Humanoiden an.
+Person beherrschen                               ;Du kannst einen Humanoiden telepathisch kontrollieren
+Pflanzengestalt I                                ;Du kannst die Gestalt einer kleinen oder mittelgroßen Pflanze annehmen
+Phantomnetz                                      ;Ziele verfangen sich in illusionärem Netz
+Planare Anpassung                                ;Widerstehe schädlichen Effekten einer Ebene
+Säuresprühregen                                  ;1W6 / Stufe Säureschaden plus 1 weitere Runde Säureschaden.
+Schallstoss                                      ;Klang stößt Ziele von dir weg.
+Schallwand                                       ;Eine Mauer aus Schall wehrt Kreaturen ab und verletzt sie.
+Schattenhervorrufung                             ;Ahmt Hervorrufungen unter dem 5. Grad nach, diese sind aber nur zu 20% real
+Schlamm zu Fels verwandeln                       ;Verwandelt zwei Würfel/ Stufe mit jeweils 3 m Kantenlänge
+Schneidender Wind                                ;Konstrukt erhält Schnelle Heilung 5.
+Schutzhülle des Lebens                           ;Schützt Kreatur vor der Umwelt
+Schwächere Astrale Projektion                    ;Funktioniert wie Astralprojektion, nur mit Einschränkungen
+Schwächerer Bindender Ruf                        ;Hält eine extraplanare Kreatur mit 6 oder weniger TW gefangen, bis sie eine Aufgabe erledigt hat
+Schwachsinn                                      ;IN und CH des Ziels sinken auf 1
+Selbstverliebtheit                               ;Ziel wird von sich selbst abgelenkt.
+Seuchenträger                                    ;Angriffe des Zieles übertragen Schmutzfieber.
+Steinhaut, Gemeinschaftliche                     ;Gewährt SR 10/Adamant und absorbiert bei jedem Ziel 10 Schadenspunkte pro Zauberstufe (max. 150 Punkte). Du kannst die Wirkungsdauer in 10-Min-Intervallen zwischen den berührten Kreaturen aufteilen.
+Steinwand                                        ;Erschafft eine Steinwand, die noch geformt werden kann
+Symbol der Ausspähung                            ;Ausgelöste Rune aktiviert Ausspähungssensor.
+Symbol des Schlafes                              ;Ausgelöste Rune lässt in der Nähe befindliche Kreaturen in einen katatonischen Schlaf fallen
+Symbol des Schlagens                             ;Symbol funktioniert wie Symbol des Todes, füllt aber ein Feld von 1,5 x 1,5 m aus
+Symbol des Schmerzes                             ;Ausgelöste Rune erfüllt in der Nähe befindliche Kreaturen mit Schmerz
+Telekinese                                       ;Bewegt einen Gegenstand, greift Kreaturen an oder schleudert Gegenstände oder Kreaturen durch die Gegend
+Telepathisches Band                              ;Verbindung ermöglicht es Verbündeten, sich miteinander zu unterhalten
+Teleportieren                                    ;Transportiert dich sofort 150 km/ Stufe weit
+Tierwachstum                                     ;Ein Tier wächst zum Doppelten seiner Größe an
+Todeswolke                                       ;"Tötet Kreaturen mit 3 TW oder weniger, Kreaturen mit 4-6 TW müssen Rettungswurf machen oder sterben; Kreaturen mit mehr als 6 TW erleiden KO-Schaden"
+Traum                                            ;Schickt eine Nachricht zu einem Schlafenden
+Überlandflug                                     ;Du fliegst mit einer Bewegungsrate von 12 m und kannst über größere Distanzen eilen
+Ungeziefergestalt II                             ;Nimm die Gestalt und einige Kräfte eines sehr kleinen oder großen Ungeziefers an.
+Untotengestalt II                                ;Nimm die Gestalt und einige Kräfte eines sehr kleinen oder großen Untoten an.
+Unzerbrechliches Konstrukt                       ;Erhöhe Härte oder SR eines Konstrukts.
+Verarbeitung                                     ;Verwandelt Rohmaterialien in fertige Gegenstände
+Verständigung                                    ;Bringt kurze Nachrichten sofort überall hin
+Verwandlung                                      ;Verleiht einem bereitwilligen Ziel eine neue Gestalt
+Verzauberung brechen                             ;Befreit das Ziel von Verzauberungen, Verwandlungen, Flüchen und Versteinerung
+Wände passieren                                  ;Erschafft Durchgänge durch Holz- oder Steinwände
+Wellen der Erschöpfung                           ;Mehrere Ziele werden erschöpft
+Windschild                                       ;Mauern aus Winden blockieren ausgewählte Angriffe.
+Ablenkung                                        ;Macht dich unsichtbar und erschafft einen illusionären Doppelgänger
+Abstoßung                                        ;Kreaturen können sich dir nicht nähern
+Ansteckende Flamme                               ;Strahlen verursachen 4W6 Feuerschaden und springen auf neue Ziele über
+Antimagisches Feld                               ;Hebt Magie innerhalb von 3m auf
+Auflösung                                        ;Lässt eine Kreatur oder einen Gegenstand verschwinden
+Belagerungsenergiegeschoss, Mächtiges            ;Ein beliebig großes Belagerungsgerät verursacht Energieschaden. Abhängig von der gewählten Energieart werden auch andere Effekte verursacht.
+Benannte Kugel, Mächtige                         ;Dieser Zauber verleiht der Zielmunition (oder einer Wurfwaffe) tödliche Genauigkeit und Zusatzschaden von +2 Stufe (max 40) gegen eine bestimmte Kreatur oder Kreaturenart.
+Bestiengestalt IV                                ;Du kannst die Gestalt eines winzigen oder bis zu riesigen Tieres oder einer sehr kleinen oder bis zu großen magischen Bestie annehmen
+Bindender Ruf                                    ;Wie Schwächerer Bindender Ruf, betrifft aber Kreaturen mit bis zu 12 TW
+Böser Blick                                      ;Ziel verfällt in Panik, wird krank und fällt ins Koma
+Dauerhaftes Trugbild                             ;Beinhaltet Bilder, Gerüche, Geräusche und Wärmeeffekte
+Drachengestalt I                                 ;Du kannst dich in einen mittelgroßen Drachen verwandeln
+Eisenwand                                        ;30 TP/4 Stufen, kann auch auf Feinde fallen
+Eiskristallteleport                              ;Funktioniert ähnlich wie Teleportieren nur wird man zuerst in 1W4 Runden in Eis eingeschlossen.
+Eisschlag                                        ;Du erzeugst einen Sturm aus Eisscherben welcher 1W6/ Stufe (max. 15W6) Schaden verursacht
+Elementargestalt III                             ;Du kannst dich in einen großen Elementar verwandeln
+Erde bewegen                                     ;Erschafft Gräben und Hügel
+Fleisch zu Stein                                 ;Verwandelt Ziel in eine Statue
+Fleischkeule                                     ;Lässt dich einen Gegner telekinetisch als Waffe verwenden
+Flucht                                           ;Teleportiert eine vorbestimmte Gruppe von Verbündeten und Kreaturen an einen vorbestimmten Ort
+Flüssige Gestalt                                 ;Das Ziel erhält SR 10/Hiebwaffen, die Fähigkeit, Wasser zu atmen, und Reichweite steigt um 3 m
+Frostsphäre                                      ;Lässt Wasser gefrieren oder verursacht Kälteschaden
+Geas/Auftrag                                     ;Wie Schwächerer Geas, kann aber jede Kreatur betreffen
+Großer Heldenmut                                 ;"+4 auf Angriffs-, Rettungs- und Fertigkeitswürfe; Immunität gegen Furcht; temporäre TP"
+Härten                                           ;Erhöht die Härte eines Materials um 1 Punkt pro 2 Zauberstufen
+Innere Ruhe                                      ;Ziele die gewalttätig sind erleiden 3W6 nichttötlichen Schaden
+Kräftige Hand                                    ;Hand schiebt Kreaturen weg
+Kugel der Unverwundbarkeit                       ;Wie Schwächere Kugel der Unverwundbarkeit, wirkt aber auch gegen Effekte von Zaubern des 4. Grades
+Kugelblitz                                       ;"1W6 Schaden/ Stufe; 1 Folgeblitz/ Stufe"
+Mächtige Ansteckung                              ;Wie Ansteckung, Krankheit kann aber nur durch Magie geheilt werden
+Mächtige Magie bannen                            ;Wie Magie bannen aber mit mehreren Zielen
+Mächtiger Fluch                                  ;Ziel erleidet -6 Attribut oder -4 auf W20-Würfe oder ähnliches, SG zum widerstehen um 5 erhöht
+Massen- Ausdauer des Ochsen                      ;Wie Ausdauer des Ochsen, betrifft aber ein Ziel/ Stufe
+Massen- Bärenstärke                              ;Wie Bärenstärke, kann aber 1 Ziel/ Stufe betreffen
+Massen- Katzenhafte Anmut                        ;Wie Katzenhafte Anmut, kann aber 1 Ziel/ Stufe betreffen
+Massen- Pracht des Adlers                        ;Wie Pracht des Adlers, kann aber 1 Ziel/ Stufe betreffen
+Massen- Schläue des Fuchses                      ;Wie Schläue des Fuchses, kann aber 1 Ziel/ Stufe betreffen
+Massen- Weisheit der Eule                        ;Wie Weisheit der Eule, betrifft aber 1 Ziel/ Stufe
+Masseneinflüsterung                              ;Wie Einflüsterung, plus ein Ziel/ Stufe
+Monster herbeizaubern VI                         ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Monstergestalt IV                                ;Wie Monstergestalt III, aber mit mehr Fähigkeiten.
+Notfall                                          ;Legt einen Auslöser für einen anderen Zauber fest
+Pflanzengestalt II                               ;Du kannst dich in eine große Pflanze verwandeln
+Rachsucht                                        ;Ziel wird gezwungen, einen Gegner zu vernichten.
+Resistenz gegen Alterung                         ;Ignoriere Mali aufgrund hohen Alters.
+Sagenkunde                                       ;Enthüllt dir die Legenden über eine Person, einen Ort oder einen Gegenstand
+Säurenebel                                       ;Nebel, der Säureschaden verursacht
+Schattenreise                                    ;Du trittst in die Schatten, um schneller zu reisen
+Schleier                                         ;Verändert das Aussehen einer ganzen Gruppe von Kreaturen
+Schwarzen Blob herbeizaubern                     ;Zaubere einen Schwarzen Blob herbei.
+Scirocco                                         ;Heißer Wind verursacht 4W6 Schaden, erschöpft jene, die Schaden genommen haben, und stößt Kreaturen zu boden
+Stein zu Fleisch                                 ;Verwandelt eine versteinerte Kreatur wieder zurück
+Symbol der Furcht                                ;Ausgelöste Rune versetzt in der Nähe befindliche Kreaturen in Panik
+Symbol der Überredung                            ;Ausgelöste Rune bezaubert in der Nähe befindliche Kreaturen
+Symbol des Versiegelns                           ;Erzeugt ausgelöste Energiewand.
+Teerlache                                        ;Der Boden wird in kochenden Teer verwandelt und zählt als schwieriges Gelände. Kreaturen erleiden Feuerschaden und können verstrickt werden.
+Tod den Untoten                                  ;Zerstört 1W4/ Stufe TW an untoten Kreaturen (max. 20W4)
+Todeskreis                                       ;Tötet 1W4 TW an Kreaturen pro Stufe
+Traumumhang                                      ;Lebende Kreaturen innerhalb von 1,50 m schlafen ein
+Umwandlung                                       ;Du erhältst Boni im Kampf
+Untote erschaffen                                ;Du kannst Ghule, Grule, Mumien oder Morhgs erschaffen
+Untotengestalt III                               ;Nimm die Gestalt und einige Kräfte eines winzigen oder riesigen Untoten an.
+Unwilliger Schild                                ;Ziel teilt die Wunden, die du erhältst
+Verachtung                                       ;Einstellung des Zieles verschlechtert sich um zwei Stufen.
+Verbindung im Kampf                              ;Du und ein Verbündeter erhalten Boni auf Angriffs und RK.
+Vorbestimmtes Trugbild                           ;Wie Mächtiges Trugbild und wird durch Ereignis ausgelöst
+Wächter und Hüter                                ;Eine ganze Reihe magischer Effekte schützt einen Bereich
+Wahrer Blick                                     ;Lässt dich alle Dinge so sehen, wie sie wirklich sind
+Wasser kontrollieren                             ;Lässt Wasser steigen oder sinken
+Zauber analysieren                               ;Enthüllt die magischen Eigenschaften eines Ziels
+Zwanghafter Neid                                 ;Ziel bestiehlt oder entwaffnet andere.
+Angriff zurückwerfen                             ;Verfehlende Angriffe werden auf den Angreifer reflektiert
+Arkane Kanone                                    ;Dieser Zauber verwandelt deinen Fokus in eine magische, selbstfeuernde Kanone.
+Ätherischer Ausflug                              ;Du wirst 1 Runde/ Stufe ätherisch
+Äthertor                                         ;Erschafft einen unsichtbaren Durchgang durch eine Barriere
+Befristete Auferstehung                          ;Du kannst eine Kreatur die nicht länger als 48 Stunden tot ist für 24 Stunden ins Leben zurück holen.
+Begrenzter Wunsch                                ;Verändert die Realität innerhalb der durch den Zauber vorgegebenen Grenzen
+Des Magiers Herrliches Herrenhaus                ;Tür führt in ein außerdimensionales Herrenhaus
+Des Magiers Schwert                              ;Schwebende magische Klinge greift Gegner an
+Drachengestalt II                                ;Du kannst dich in einen großen Drachen verwandeln
+Ebenenwechsel                                    ;Bis zu acht Ziele können auf eine andere Ebene reisen
+Eisleib                                          ;Dein Körper wird zu ein und macht dich immun gegen Attributsschaden, Betäubung, Blindheit, Elektrizität, Ertrinken Gift, Krankheit, Kritische Treffer, Taubheit,…
+Elementargestalt IV                              ;Du kannst dich in einen riesigen Elementar verwandeln
+Energiekäfig                                     ;Energiekäfig oder -würfel, der alle darin gefangen hält
+Epidemie                                         ;Du infizierst das Ziel mit einer Krankheit wie bei Ansteckung. Diese Krankheit kann ansteckend sein.
+Erdwall                                          ;Erzeugt eine 1,50 m dicke Erdbarriere
+Erzwungene Verschwendung                         ;Verschwendet eine beschränkt nutzbare magische Fähigkeit einer Kreatur
+Feindseliger Austausch, Mächtiger                ;Du erzeugt eine intradimensionale Verbindung mit den Zielkreaturen. Wirst du Ziel eines Angriffs oder Schadenzaubers kannst du mit einer augenblicklichen Aktion per Teleportation den Platz mit einer der Zielkreaturen tauschen. Du kannst den Platz mit jeder Zielkreatur nur einmal tauschen.
+Feuersegen                                       ;Verbündete erhalten aufflammende Waffen, Immunität gegen deine Feuerzauber und einen einmaligen Feuerstrahlangriff
+Finger des Todes                                 ;Verursacht bei einem Ziel 10 SP/ Stufe
+Gegenstand teleportieren                         ;Wie Teleportieren, betrifft aber berührten Gegenstand
+Ki-Schrei                                        ;Du erzeugst mit einem Schrei 1W6/ Stufe (max. 20W6) Schallschaden
+Kleine Halbebene erschaffen                      ;du erschaffst eine kleine Halbebene
+Konstrukt kontrollieren                          ;Du kannst das Konstrukt jemand anderes kontrollieren
+Kurzstreckenteleportation                        ;Teleportiere dich mit einer Bewegungsaktion bis 9 m auf ein freies Feld in deiner Sichtlinie oder stehe aus dem Liegen auf. Das Teleportieren verursacht keine Gelegenheitsangriffe.
+Mächtige Ausspähung                              ;Wie Ausspähung, wirkt aber schneller und länger
+Mächtige Resistenz gegen Alterung                ;Ignoriere Mali aufgrund ehrwürdigen Alters.
+Mächtige Schattenbeschwörung                     ;Wie Schattenbeschwörung, kann aber Beschwörungen bis zum 6. Grad einschließlich nachahmen und diese sind zu 60% real
+Mächtige Verwandlung                             ;Verwandelt ein bereitwilliges Ziel in eine neue, mächtige Gestalt
+Mächtiger Arkaner Blick                          ;Wie Arkaner Blick, enthüllt aber auch magische Effekte, die auf Kreaturen und Gegenständen liegen
+Mächtiges Teleportieren                          ;Wie Teleportieren, aber keine Einschränkung der Reichweite und kein Abkommen vom Ziel
+Massen- Fliegen                                  ;Eine Kreatur/ Stufe erhält die Fähigkeit zu fliegen
+Massen- Person festhalten                        ;Wie Person festhalten, betrifft aber alle innerhalb von 9 m
+Massen- Planare Anpassung                        ;Wie Planare Anpassung, betrifft aber mehrere Kreaturen
+Massenunsichtbarkeit                             ;Wie Unsichtbarkeit, betrifft aber alle innerhalb der Reichweite
+Mondschatten                                     ;Banne Licht und verwandle Lykanthropen zurück.
+Monster herbeizaubern VII                        ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Pflanzengestalt III                              ;Du kannst dich in eine riesige Pflanze verwandeln
+Projiziertes Ebenbild                            ;Illusionärer Doppelgänger, der sprechen und Zauber wirken kann
+Rachsüchtiges Phantom                            ;Der Geist einer Leiche jagt seinen Mörder
+Regenbogenspiel                                  ;Strahlen treffen Ziele mit verschiedenen Effekten
+Riesengestalt I                                  ;Du kannst dich in einen großen Riesen verwandeln
+Säureeruption                                    ;Explosion verursacht 1W6 Säureschaden / Stufe und hält an.
+Schutzkreis der Klarheit                         ;Ausstrahlung stört Illusionen und Heimlichkeit.
+Schwerkraft umkehren                             ;Kreaturen und Gegenstände fallen nach oben
+Seuchensturm                                     ;Wolke infiziert Kreaturen wie mit Ansteckung.
+Simulakrum                                       ;Erschafft einen teilweise realen Doppelgänger einer Kreatur
+Sofortige Herbeizauberung                        ;Präparierter Gegenstand erscheint in deinen Händen
+Spätzündender Feuerball                          ;"1W6 Feuerschaden/ Stufe; du kannst die Explosion bis zu 5 Runden lang verzögern"
+Statue                                           ;Ziel kann sich freiwillig in eine Statue verwandeln
+Strudel                                          ;Erzeugt einen Wirbel in Wasser
+Symbol der Betäubung                             ;Ausgelöste Rune betäubt in der Nähe befindliche Kreaturen
+Symbol der Schwächung                            ;Ausgelöste Rune schwächt in der Nähe befindliche Kreaturen
+Überirdische Freuden                             ;Hebe negative Emotionen auf.
+Untote kontrollieren                             ;Untote Kreaturen greifen dich nicht an, solange sie unter deinem Kommando stehen
+Verbannung                                       ;Verbannt 2 TW/ Stufe an extraplanare Kreaturen
+Verbergen                                        ;Ziel ist für normale Sicht und Ausspähungen unsichtbar, lässt Kreatur ins Koma fallen
+Vision                                           ;Wie Sagenkunde, wirkt aber schneller
+Wahnsinn                                         ;Ziel unterliegt dauerhafter Verwirrung
+Wellen der Ekstase                               ;Wohlige Freuden betäuben Kreaturen und lassen sie wanken.
+Wellen der Entkräftung                           ;Entkräftet mehrere Ziele
+Wetterkontrolle                                  ;Verändert die örtlichen Wetterbedingngen
+Widerhallendes Wort                              ;Ziel wird verwundet und ist wankend und betäubt.
+Wort der Macht: Blindheit                        ;Lässt eine Kreatur mit 200 TP oder weniger erblinden
+Zauber zurückwerfen                              ;Reflektiert 1W4+6 Zaubergrade, die auf den Zauberwirker zurückgeworfen werden
+Zugreifende Hand                                 ;Hand bietet Deckung, schiebt Kreaturen weg oder ergreift sie
+Abschirmung                                      ;Illusion schirmt einen Bereich vor Ausspähung und normaler Beobachtung ab
+Antipathie                                       ;Von dem Zauber betroffener Ort oder Gegenstand vertreibt manche Kreaturen
+Aufforderung                                     ;Wie Verständigung, du kannst aber auch eine Einflüsterung mit senden
+Aufspüren                                        ;Enthüllt den genauen Aufenthaltsort einer Kreatur oder eines Gegenstands
+Beliebiges verwandeln                            ;Verwandelt das Ziel in irgendetwas anderes
+Blitzgewitter                                    ;Verursacht Zielen 1W8 Schaden/ Stufe (max. 20W8)
+Dimensionsschloss                                ;Teleportation und Dimensionsreisen werden für 1 Tag/ Stufe blockiert
+Drachengestalt III                               ;Du kannst dich in einen riesigen Drachen verwandeln
+Eiserner Körper                                  ;Dein Körper verwandelt sich in lebendes Eisen
+Flammende Wolke                                  ;Wolke verursacht 6W6 Feuerschaden pro Runde
+Fröhliche Gelassenheit                           ;Macht eine Kreatur freundlich und friedlich
+Furchteinflößende Erscheinung                    ;Du nimmst die Größenkategorie groß an und erlangst das folgende: Größenbonus +6 Stärke und +4 Konstitution, natürlichen Rüstungsbonus von +6, SR 10/Magie, ZR 10 + ½ Stufe, 9 m Aura, welche feindliche Kreaturen erschüttert sein lässt. Trifft dich eine erschütterte Kreatur mit einem Nahkampfangriff, ist diese für 1w4 Runden verängstigt.
+Geballte Faust                                   ;Große Hand bietet Deckung, schiebt deine Gegner weg oder greift sie an
+Gedankenleere                                    ;Ziel ist gegen geistesbeeinflussende und gefühlsbeeinflussende Magie und Ausspähungen immun
+Gedankenleere                                    ;Ziel ist gegen geistesbeeinflussende und gefühlsbeeinflussende Magie und Ausspähungen immun. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den berührten Kreaturen aufteilen.
+Halbebene erschaffen                             ;du erschaffst eine Halbebene mit einige speziellen Eigenschaften
+Irrgarten                                        ;Sperrt Ziele in ein außerdimensionales Labyrinth
+Klon                                             ;Ein Klon des Ziels wird zum Leben erweckt, wenn dieses selbst stirbt
+Konstrukt herbeizaubern                          ;Ein von dir kontrolliertes Konstrukt herbeizaubern
+Kugel der Leere                                  ;Die Sphäre entzieht Kreaturen Erfahrungsstufen
+Lavawand                                         ;Wand schadet Gegenern, die sie durchqueren, und wirft Lava auf nahe Ziele
+Mächtige Ausspähende Augen                       ;Wie Ausspähende Augen, Augen verfügen aber auch über Wahrer Blick
+Mächtige Schattenhervorrufung                    ;Wie Schattenhervorrufung, kann aber Hervorrufungen bis zum 7. Grad einschließlich nachahmen und diese sind zu 60% real
+Mächtiger Bindender Ruf                          ;Wie Schwächerer Bindender Ruf, betrifft aber bis zu 18TW
+Mächtigere Untote erschaffen                     ;Erschafft Schatten, Schreckgespenster, Todesalben und Zehrer
+Mächtiges Brüllen                                ;"Verheerender Schrei verursacht 10W6 Schallschaden; betäubt Kreatur"
+Magische Bande                                   ;Du benutzt verschiedene Techniken, um eine Kreatur gefangen zu nehmen
+Mantel der See                                   ;Hüllt dich in schützende Wasser
+Massen- Monster bezaubern                        ;Wie Monster bezaubern, betrifft aber alle innerhalb von 9 m
+Moment der Eingebung                             ;Du erhältst einen Verständigungsbonus von +1/ Stufe auf einen einzigen Angriffs-, Fertigkeits- oder Rettungswurf
+Monster herbeizaubern VIII                       ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Polarstrahl                                      ;Berührungsangriff auf Entfernung, verursacht 1W6 Kälteschaden/ Stufe und 1W4 Geschicklichkeitsentzug
+Regenbogenwand                                   ;Die Farben der Wand haben verschiedene Effekte
+Riesengestalt II                                 ;Du kannst dich in einen riesigen Riesen verwandeln
+Schillerndes Muster                              ;Sich windende Farben verwirren oder betäuben Ziele oder machen sie bewusstlos
+Schutz vor Zaubern                               ;Verleiht einen Resistenzbonus von +8
+Seelenfalle                                      ;Sperrt das Ziel in einem Edelstein ein
+Sonnenfeuer                                      ;Blendet alle innerhalb von 3 m und verursacht 6W6 Schaden
+Symbol des Todes                                 ;Ausgelöste Rune tötet in der Nähe befindliche Kreaturen
+Symbol des Wahnsinns                             ;Ausgelöste Rune macht in der Nähe befindliche Kreaturen wahnsinnig
+Sympathie                                        ;Gegenstand oder Ort zieht bestimmte Kreaturen an
+Telekinesesphäre                                 ;Wie Unverwüstliche Sphäre, du bewegst die Sphäre jedoch telekinetisch
+Temporäre Stasis                                 ;Versetzt das Ziel in einen scheintoten Zustand
+Untotengestalt IV                                ;Nimm die Gestalt und einige Kräfte eines winzigen oder riesigen Untoten an, aber mit mehr Fähigkeiten.
+Unwiderstehlicher Tanz                           ;Zwingt ein Ziel zu tanzen
+Verdorren                                        ;Verursacht 1W6 Schaden/ Stufe innerhalb von 9 m
+Visionen des Versagens                           ;Ziel ist dauerhaft erschüttert und kränkelnd und könnte sich mit einer Zauberplage infizieren.
+Wort der Macht: Betäubung                        ;Betäubt eine Kreatur mit 150 oder weniger TP
+Astrale Projektion                               ;Projiziert dich und deine Gefährten auf die Astralebene
+Ätherische Gestalten                             ;Du kannst mit deinen Gefährten auf die Ätherebene reisen
+Befreiung                                        ;Befreit Kreatur aus Einkerkerung
+Blitzsprung                                      ;Du bewegst dich mit einer Schnellen Aktion bis zu 36m weit und machst damit 10W6 Schaden.
+Blut zu Säure                                    ;Du verwandelst das Blut der Kreatur in Säure und fügst so 1W6/2 Stufen Schaden zu. Ziel ist wankend und kränkelnd.
+Einkerkerung                                     ;Kerkert ein Ziel unter der Erde ein
+Entzug von Lebenskraft                           ;Ziel erhält 2W4 negative Stufen
+Feurige Gestalt                                  ;Du erhältst verschiedene feurige Kräfte
+Gedankenleere                                    ;Ziel ist gegen geistesbeeinflussende und gefühlsbeeinflussende Magie und Ausspähungen immun
+Gedankenleere                                    ;Ziel ist gegen geistesbeeinflussende und gefühlsbeeinflussende Magie und Ausspähungen immun. Du kannst die Wirkungsdauer in 1-Stunden-Intervallen zwischen den berührten Kreaturen aufteilen.
+Gestaltwandel                                    ;Du kannst dich in eine Kreatur deiner Wahl verwandeln und einmal pro Runde die Gestalt wechseln
+Große Halbebene erschafften                      ;du erschaffst eine große Halbebene mit vielen speziellen Eigenschaften
+Heldenhafte Anrufung                             ;Ziele erhalten einen Moralbonus von +4 auf Angriffs- und Schadenswürfe, 2w8+4 temporäre TP uns Immunität gegen Furcht und Bezauberungseffekte. Nach Ende des Wirkungsdauer sind die Ziele erschöpft.
+Hölzerne Phalanx                                 ;Du erschaffst 1W4+2 Holzgolems welche dir dienen
+Interplanetares Teleportieren                    ;Du kannst dich ohne Beschränkung teleportieren
+Kreis der Teleportation                          ;Kreis teleportiert jede in ihm befindliche Kreatur zu einem bestimmten Ort
+Magische Auftrennung                             ;Bannt Magie und entzaubert magische Gegenstände
+Massen- Eisgefängnis                             ;Du hüllst die Ziele in Eis mit 2,5 cm/ZS und machst sie hilflos und fügst Schaden zu
+Massen- Ersticken                                ;Eine Kreatur/ Stufe erstickt
+Massen- Monster festhalten                       ;Wie Monster festhalten, betrifft aber alle innerhalb von 9 m
+Meteoritenschwarm                                ;Vier explodierende Kugeln verursachen jeweils 6W6 Feuerschaden
+Monster beherrschen                              ;Wie Person beherrschen, betrifft aber jede beliebige Kreatur
+Monster herbeizaubern IX                         ;Ruft eine extraplanare Kreatur herbei, die an deiner Seite kämpft
+Regenbogensphäre                                 ;Wie Regenbogenwand, schützt aber von allen Seiten
+Schatten                                         ;Wie Schattenbeschwörung, aber bis zum 8. Grad und zu 80% real
+Sechster Sinn                                    ;Ein sechster Sinn warnt dich vor nahenden Gefahren
+Seele binden                                     ;Sperrt die Seele eines kürzlich Verstorbenen ein, um Auferstehung zu verhindern
+Symbol der Empfindlichkeit                       ;Ausgelöste Rune verleiht Mali.
+Symbol des Zwists                                ;Ausgelöste Rune lässt Kreaturen angreifen.
+Tor                                              ;Verbindet zwei Ebenen zum Zweck des Reisens oder Herbeizauberns
+Tsunami                                          ;Riesige Welle fegt alles in ihrem Weg hinweg und verübt Schaden
+Überwältigende Ehrfurcht                         ;Kreaturen verneigen sich vor dir, als wärst du ein göttliches Wesen.
+Unheimliches Schicksal                           ;Wie Tödliches Phantom, betrifft aber alle innerhalb von 9 m
+Verdammte Erde                                   ;Pflanzen sterben, Lebewesen erkranken oder Tote erheben sich als Zombies.
+Wand des Zauberunterdrückens                     ;Erzeugt Wand, die Magie unterdrückt
+Wehgeschrei der Todesfee                         ;Fügt 1 Kreatur/ Stufe 10 SP/ Stufe zu
+Weltenwoge                                       ;Erde oder Wasser befördert dich über weite Strecken und schadet allen nicht natürlichen Dingen
+Winde der Vergeltung                             ;Verleiht die Fähigkeit zu fliegen und mit Wind Angriffe durchzuführen
+Wort der Macht: Tod                              ;Tötet eine Kreatur mit 100 oder weniger TP
+Wunsch                                           ;Wie Begrenzter Wunsch, aber mit weniger Einschränkungen
+Zeitstopp                                        ;Du kannst 1W4+1 Runden lang völlig frei handeln
+Zerdrückende Hand                                ;Große Hand bietet Deckung, schiebt deine Gegner weg oder zerquetscht sie
+Zerschmetternde Felsen                           ;Ziel erleidet 20W6 Schaden
+Zuflucht                                         ;Verändert einen Gegenstand so, dass er seinen Besitzer zu dir bringt

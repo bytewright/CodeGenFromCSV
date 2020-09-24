@@ -1,7 +1,5 @@
 package org.bytewright.codegen.dto;
 
-import org.apache.commons.lang3.StringUtils;
-
 import com.opencsv.bean.CsvBindByPosition;
 
 public class SpellDefinition {
@@ -29,7 +27,13 @@ public class SpellDefinition {
   private String seite;
   @CsvBindByPosition(position = 11)
   private String seiteEn;
+  @CsvBindByPosition(position = 12)
+  private String material;
   private String beschreibung;
+
+  public void setMaterial(String material) {
+    this.material = material;
+  }
 
   public String getBeschreibung() {
     return beschreibung;
@@ -40,7 +44,7 @@ public class SpellDefinition {
   }
 
   public String getMaterial() {
-    return komp.contains("M") ? "todo" : "-";
+    return trimmed(material);
   }
 
   public String getName() {
@@ -100,16 +104,7 @@ public class SpellDefinition {
   }
 
   public String getKomp() {
-    String prepString = trimmed(komp).replace("G", "-Geste-")
-        .replace("V", "-Verbal-")
-        .replace("M", "-Material-")
-        .replaceAll("--", "-");
-    prepString = StringUtils.removeEnd(prepString, "-");
-    prepString = StringUtils.removeStart(prepString, "-");
-    prepString = prepString.replaceAll("-", ", ");
-    if ("Verbal, Geste, Material".equals(prepString))
-      return "Verbal, Geste, Mat.";
-    return prepString;
+    return trimmed(komp);
   }
 
   public void setKomp(String komp) {
@@ -128,8 +123,6 @@ public class SpellDefinition {
   }
 
   public String getQuelle() {
-    if (quelle.toLowerCase().contains("phb"))
-      return "Spielerhandbuch";
     return trimmed(quelle).replaceAll(",", ", ");
   }
 

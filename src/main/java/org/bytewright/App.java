@@ -27,7 +27,7 @@ public class App {
 
   public static void main(String[] args) throws IOException, CsvValidationException {
     Path defs = Path.of("spells-dnd5.csv");
-    Path descs = Path.of("spell-descriptions-dnd5.csv");
+    Path descs = Path.of("spell-descriptions-en-dnd5.csv");
     List<Path> pathList = List.of(defs, descs);
     LOGGER.info("Loading CSVs: {}", pathList);
       File fileDefs = defs.toFile();
