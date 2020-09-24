@@ -1,0 +1,111 @@
+﻿Name                         ;Beschreibung
+Befall                       ;TODO Description
+Donnerschlag                 ;TODO Description
+Einfache Illusion            ;You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.++If you create a sound ,its volume can range from a whisper to a scream. It can be your voice ,someone else's voice ,a lion's roar ,a beating of drums ,or any other sound you choose. The sound continues unabated throughout the duration ,or you can make discrete sounds at different times before the spell ends.++If you create an image of an object--such as a chair ,muddy footprints ,or a small chest--it must be no larger than a 5-foot cube. The image can't create sound,light ,smell ,or any other sensory effect. Physical interaction with the image reveals it to be an illusion ,because things can pass through it.++If a creature uses its action to examine the sound or image,the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is,the illusion becomes faint to the creature.
+Erfrierung                   ;TODO Description
+Freundschaft                 ;For the duration ,you have advantage on all Charisma checks directed at one creature of your choice that isn’t hostile toward you.++When the spell ends ,the creature realizes that you used magic to influence its mood and becomes hostile toward you.++A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM’s discretion),depending on the nature of your interaction with it.
+Gift versprühen              ;You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.++This spell's damage increases by 1d12 when you reach 5th level (2d12) ,11th level (3d12) ,and 17th level (4d12).
+Kalte Hand                   ;You create a ghostly ,skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit ,the target takes 1d8 necrotic damage ,and it can't regain hit points until the start of your next turn. Until then ,the hand clings to the target.++If you hit an undead target ,it also has disadvantage on attack rolls against you until the end of your next turn.++This spell's damage increases by 1d8 when you reach 5th level (2d8) ,11th level (3d8) ,and 17th level (4d8).
+Klingenbann                  ;You extend your hand and trace a sigil of warding in the air. Until the end of your next turn ,you have resistance against bludgeoning ,piercing ,and slashing damage dealt by weapon attacks.
+Lagerfeuer erschaffen        ;TODO Description
+Magierhand                   ;A spectral ,floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.++You can use your action to control the hand. You can use the hand to manipulate an object,open an unlocked door or container ,stow or retrieve an item from an open container ,or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.++The hand can't attack ,activate magic items ,or carry more than 10 pounds.
+Magiestein                   ;TODO Description
+Schauriger Strahl            ;A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit ,the target takes 1d10 force damage.++The spell creates more than one beam when you reach higher levels: two beams at 5th level ,three beams at 11th level ,and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+Taschenspielerei             ;This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:+begin{itemize} +item You create an instantaneous ,harmless sensory effect ,such as a shower of sparks ,a puff of wind ,faint musical notes ,or an odd odor. +item You instantaneously light or snuff out a candle ,a torch ,or a small campfire. +item You instantaneously clean or soil an object no larger than 1 cubic foot. +item You chill ,warm ,or flavor up to 1 cubic foot of nonliving material for 1 hour. +item You make a color,a small mark ,or a symbol appear on an object or a surface for 1 hour. +item You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.+end{itemize}If you cast this spell multiple times,you can have up to three of its non-instantaneous effects active at a time ,and you can dismiss such an effect as an action.
+Totenläuten                  ;TODO Description
+Zielsicherer Schlag          ;You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses.++On your next turn ,you gain advantage on your first attack roll against the target ,provided that this spell hasn't ended.
+Angst verursachen            ;TODO Description
+Arme von Hadar               ;You invoke the power of Hadar ,the Dark Hunger.++Tendrils of dark energy erupt from you and batter allcreatures within 10 feet of you. Each creature in thatarea must m ake a Strength saving throw. On a failedsave ,a target takes 2d6 necrotic damage and can’t takereactions until its next turn. On a successful save ,thecreature takes half damage ,but suffers no other effect.++At Higher Levels. When you cast this spell using aspell slot of 2nd level or higher ,the damage increases by1d6 for each slot level above 1st.
+Hexenpfeil                   ;TODO Description
+Höllischer Tadel             ;You point your finger ,and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save ,or half as much damage on a successful one.++At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher ,the damage increases by 1d10 for each slot level above 1st.++[1cm]Zeitaufwand: 1 reaction ,which you take in response to being damaged by a creature within 60 feet of you that you can see
+Illusionsschrift             ;You write on parchment ,paper ,or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.++To you and any creatures you designate when you cast the spell ,the writing appears normal ,written in your hand ,and conveys whatever meaning you intended when you wrote the text. To all others ,the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively ,you can cause the writing to appear to be an entirely different message ,written in a different hand and language ,though the language must be one you know.++Should the spell be dispelled ,the original script and the illusion both disappear.++A creature with truesight can read the hidden message.++[1cm]Material:a lead-based ink worth at least 10 gp,which the spell consumes
+Person bezaubern             ;You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw ,and does so with advantage if you or your companions are fighting it. If it fails the saving throw ,it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends ,the creature knows it was charmed by you.++At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher ,you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+Rascher Rückzug              ;This spell allows you to move at an incredible pace. When you cast this spell ,and then as a bonus action on each of your turns until the spell ends ,you can take the Dash action.
+Rüstung von Agathys          ;TODO Description
+Schutz vor Gut und Böse      ;Until the spell ends ,one willing creature you touch is protected against certain types of creatures: aberrations ,celestials ,elementals ,fey ,fiends ,and undead.The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed,frightened ,or possessed by them. If the target is already charmed ,frightened ,or possessed by such a creature ,the target has advantage on any new saving throw against the relevant effect.++[1cm]Material: holy water or powdered silver and iron ,which the spell consumes
+Sprachen verstehen           ;For the duration ,you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see ,but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.This spell doesn't decode secret messages in a text or a glyph ,such as an arcane sigil ,that isn't part of a written language. ++[1cm]Material: a pinch of soot and salt
+Unsichtbarer Diener          ;This spell creates an invisible ,mindless ,shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10 ,1 hit point ,and a Strength of 2 ,and it can't attack. If it drops to 0 hit points ,the spell ends.++Once on each of your turns as a bonus action ,you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do ,such as fetching things ,cleaning ,mending ,folding clothes ,lighting fires ,serving food ,and pouring wine. Once you give the command,the servant performs the task to the best of its ability until it completes the task,then waits for your next command.++If you command the servant to perform a task that would move it more than 60 feet away from you,the spell ends.++[1cm]Material: a piece of string and a bit of wood
+Verwünschen                  ;TODO Description
+Dolchwolke                   ;TODO Description
+Dunkelheit                   ;Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness ,and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried ,the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object ,such as a bowl or a helm ,blocks the darkness. If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower ,the spell that created the light is dispelled.
+Erdbindung                   ;TODO Description
+Fesseln                      ;You weave a distracting string of words ,causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically ,and if you or your companions are fighting a creature ,it has advantage on the save. On a failed save ,the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
+Gedankendorn                 ;TODO Description
+Krone des Wahnsinns          ;TODO Description
+Nebelschritt                 ;Briefly surrounded by silvery mist ,you teleport up to 30 feet to an unoccupied space that you can see.
+Person festhalten            ;Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns ,the target can make another Wisdom saving throw. On a success ,the spell ends on the target. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher ,you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+Schattenklinge               ;TODO Description
+Schwächestrahl               ;A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit ,the target deals only half damage with weapon attacks that use Strength until the spell ends. At the end of each of the target's turns ,it can make a Constitution saving throw against the spell. On a success ,the spell ends.
+Spiegelbilder                ;Three illusory duplicates of yourself appear in your space. Until the spell ends ,the duplicates move with you and mimic your actions ,shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates. Each time a creature targets you with an attack during the spell's duration ,roll a d20 to determine whether the attack instead targets one of your duplicates. If you have three duplicates ,you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates ,you must roll an 8 or higher. With one duplicate ,you must roll an 11 or higher. A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate ,the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed. A creature is unaffected by this spell if it can't see,if it relies on senses other than sight ,such as blindsight ,or if it can perceive illusions as false ,as with truesight.
+Spinnenklettern              ;Until the spell ends ,one willing creature you touch gains the ability to move up ,down ,and across vertical surfaces and upside down along ceilings ,while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+Unsichtbarkeit               ;A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher,you can target one additional creature for each slot level above 2nd.
+Zerbersten                   ;A sudden loud ringing noise ,painfully intense ,erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save ,or half as much damage on a successful one. A creature made of inorganic material such as stone ,crystal ,or metal has disadvantage on this saving throw. A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher,the damage increases by 1d8 for each slot level above 2nd.
+Beschwörung schwacher Dämonen;TODO Description
+Donnerschritt                ;TODO Description
+Feindüberschuss              ;TODO Description
+Fliegen                      ;You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends ,the target falls if it is still aloft ,unless it can stop the fall. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher ,you can target one additional creature for each slot level above 3rd.
+Fluch brechen                ;At your touch ,all curses affecting one creature or object end. If the object is a cursed magic item ,its curse remains ,but the spell breaks its owner's attunement to the object so it can be removed or discarded.
+Furcht                       ;TODO Description
+Gasförmige Gestalt           ;TODO Description
+Gegenzauber                  ;TODO Description
+Hunger von Hadar             ;TODO Description
+Hypnotisches Muster          ;TODO Description
+Magie bannen                 ;TODO Description
+Mächtiges Trugbild           ;TODO Description
+Schutzkreis                  ;TODO Description
+Vampirgriff                  ;TODO Description
+Zungen                       ;TODO Description
+Beschwörung höherer Dämonen  ;TODO Description
+Dimensionstür                ;TODO Description
+Dürre                        ;TODO Description
+Elementarverderben           ;TODO Description
+Hüter des Glaubens           ;TODO Description
+Krankmachende Strahlung      ;TODO Description
+Monster bezaubern            ;TODO Description
+Schatten der Moil            ;TODO Description
+Scheingelände                ;TODO Description
+Verbannung                   ;TODO Description
+Ausspähung                   ;TODO Description
+Entkräftung                  ;TODO Description
+Fernschritt                  ;TODO Description
+Infernalisches Herbeirufen   ;TODO Description
+Kontakt zu anderen Ebenen    ;TODO Description
+Lichtwand                    ;TODO Description
+Monster festhalten           ;TODO Description
+Negativer Energiefluss       ;TODO Description
+Synaptisches Rauschen        ;TODO Description
+Totentanz                    ;TODO Description
+Traum                        ;TODO Description
+Arkanes Tor                  ;TODO Description
+Böser Blick                  ;TODO Description
+Feenwesen beschwören         ;TODO Description
+Fleisch zu Stein             ;TODO Description
+Gefängnis für den Verstand   ;TODO Description
+Investitur der Flammen       ;TODO Description
+Investitur des Eises         ;TODO Description
+Investitur des Gesteins      ;TODO Description
+Investitur des Windes        ;TODO Description
+Massen-Einflüsterung         ;TODO Description
+Seelenkäfig                  ;TODO Description
+Streuung                     ;TODO Description
+Todeskreis                   ;TODO Description
+Untote erschaffen            ;TODO Description
+Wahrer Blick                 ;TODO Description
+Ebenenwechsel                ;TODO Description
+Energiekäfig                 ;TODO Description
+Finger des Todes             ;TODO Description
+Krone der Sterne             ;TODO Description
+Wort der Macht: Schmerz      ;TODO Description
+Ätherische Gestalten         ;TODO Description
+Halbebene                    ;TODO Description
+Monster beherrschen          ;TODO Description
+Redegewandheit               ;TODO Description
+Schwachsinn                  ;TODO Description
+Verrücktmachende Finsternis  ;TODO Description
+Wort der Macht: Betäubung    ;TODO Description
+Astrale Projektion           ;TODO Description
+Einkerkerung                 ;TODO Description
+Psychischer Schrei           ;TODO Description
+Voraussicht                  ;TODO Description
+Wahre Verwandlung            ;TODO Description
+Wort der Macht: Tod          ;TODO Description

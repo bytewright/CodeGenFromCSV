@@ -4,7 +4,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import com.opencsv.bean.CsvBindByPosition;
 
-public class SpellDesc {
+public class SpellDefinition {
   @CsvBindByPosition(position = 0)
   private String name;
   @CsvBindByPosition(position = 1)
@@ -29,11 +29,10 @@ public class SpellDesc {
   private String seite;
   @CsvBindByPosition(position = 11)
   private String seiteEn;
-  @CsvBindByPosition(position = 12)
   private String beschreibung;
 
   public String getBeschreibung() {
-    return trimmed(beschreibung).replace("++", "\\\\\n").replace("+", "\n\\");
+    return beschreibung;
   }
 
   public void setBeschreibung(String beschreibung) {
