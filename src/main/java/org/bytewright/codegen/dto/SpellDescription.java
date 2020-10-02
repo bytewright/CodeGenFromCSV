@@ -4,8 +4,10 @@ import com.opencsv.bean.CsvBindByPosition;
 
 public class SpellDescription {
   @CsvBindByPosition(position = 0)
-  private String name;
+  private String stufe;
   @CsvBindByPosition(position = 1)
+  private String name;
+  @CsvBindByPosition(position = 2)
   private String beschreibung;
 
   public String getName() {

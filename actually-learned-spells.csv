@@ -1,0 +1,115 @@
+﻿Stufe;Spell Name                   ;Char learned
+0    ;Befall                       ;false
+0    ;Blitzköder	                  ;false
+0    ;Donnerschlag                 ;false
+0    ;Dröhnende Klinge             ;false
+0    ;Einfache Illusion            ;false
+0    ;Erfrierung                   ;false
+0    ;Freundschaft                 ;false
+0    ;Gift versprühen              ;false
+0    ;Grünfeuerklinge              ;false
+0    ;Kalte Hand                   ;false
+0    ;Klingenbann                  ;false
+0    ;Lagerfeuer erschaffen        ;false
+0    ;Magierhand                   ;false
+0    ;Magiestein                   ;false
+0    ;Schauriger Strahl            ;true
+0    ;Schwertexplosion             ;false
+0    ;Taschenspielerei             ;false
+0    ;Totenläuten                  ;false
+0    ;Zielsicherer Schlag          ;true
+1    ;Angst verursachen            ;false
+1    ;Arme von Hadar               ;false
+1    ;Hexenpfeil                   ;false
+1    ;Höllischer Tadel             ;true
+1    ;Illusionsschrift             ;false
+1    ;Person bezaubern             ;false
+1    ;Rascher Rückzug              ;false
+1    ;Rüstung von Agathys          ;true
+1    ;Schutz vor Gut und Böse      ;false
+1    ;Sprachen verstehen           ;false
+1    ;Unsichtbarer Diener          ;false
+1    ;Verwünschen                  ;false
+2    ;Dolchwolke                   ;false
+2    ;Dunkelheit                   ;false
+2    ;Erdbindung                   ;false
+2    ;Fesseln                      ;false
+2    ;Gedankendorn                 ;false
+2    ;Krone des Wahnsinns          ;false
+2    ;Nebelschritt                 ;false
+2    ;Person festhalten            ;false
+2    ;Schattenklinge               ;false
+2    ;Schwächestrahl               ;false
+2    ;Spiegelbilder                ;false
+2    ;Spinnenklettern              ;false
+2    ;Unsichtbarkeit               ;false
+2    ;Zerbersten                   ;false
+3    ;Beschwörung schwacher Dämonen;false
+3    ;Donnerschritt                ;false
+3    ;Feindüberschuss              ;false
+3    ;Fliegen                      ;false
+3    ;Fluch brechen                ;false
+3    ;Furcht                       ;false
+3    ;Gasförmige Gestalt           ;false
+3    ;Gegenzauber                  ;false
+3    ;Hunger von Hadar             ;false
+3    ;Hypnotisches Muster          ;false
+3    ;Magie bannen                 ;false
+3    ;Mächtiges Trugbild           ;false
+3    ;Schutzkreis                  ;false
+3    ;Vampirgriff                  ;false
+3    ;Zungen                       ;false
+4    ;Beschwörung höherer Dämonen  ;false
+4    ;Dimensionstür                ;false
+4    ;Dürre                        ;false
+4    ;Elementarverderben           ;false
+4    ;Hüter des Glaubens           ;false
+4    ;Krankmachende Strahlung      ;false
+4    ;Monster bezaubern            ;false
+4    ;Schatten der Moil            ;false
+4    ;Scheingelände                ;false
+4    ;Verbannung                   ;false
+5    ;Ausspähung                   ;false
+5    ;Entkräftung                  ;false
+5    ;Fernschritt                  ;false
+5    ;Infernalisches Herbeirufen   ;false
+5    ;Kontakt zu anderen Ebenen    ;false
+5    ;Lichtwand                    ;false
+5    ;Monster festhalten           ;false
+5    ;Negativer Energiefluss       ;false
+5    ;Synaptisches Rauschen        ;false
+5    ;Totentanz                    ;false
+5    ;Traum                        ;false
+6    ;Arkanes Tor                  ;false
+6    ;Böser Blick                  ;false
+6    ;Feenwesen beschwören         ;false
+6    ;Fleisch zu Stein             ;false
+6    ;Gefängnis für den Verstand   ;false
+6    ;Investitur der Flammen       ;false
+6    ;Investitur des Eises         ;false
+6    ;Investitur des Gesteins      ;false
+6    ;Investitur des Windes        ;false
+6    ;MassenfalseEinflüsterung     ;false
+6    ;Seelenkäfig                  ;false
+6    ;Streuung                     ;false
+6    ;Todeskreis                   ;false
+6    ;Untote erschaffen            ;false
+6    ;Wahrer Blick                 ;false
+7    ;Ebenenwechsel                ;false
+7    ;Energiekäfig                 ;false
+7    ;Finger des Todes             ;false
+7    ;Krone der Sterne             ;false
+7    ;Wort der Macht: Schmerz      ;false
+7    ;Ätherische Gestalten         ;false
+8    ;Halbebene                    ;false
+8    ;Monster beherrschen          ;false
+8    ;Redegewandheit               ;false
+8    ;Schwachsinn                  ;false
+8    ;Verrücktmachende Finsternis  ;false
+8    ;Wort der Macht: Betäubung    ;false
+9    ;Astrale Projektion           ;false
+9    ;Einkerkerung                 ;false
+9    ;Psychischer Schrei           ;false
+9    ;Voraussicht                  ;false
+9    ;Wahre Verwandlung            ;false
+9    ;Wort der Macht: Tod          ;false

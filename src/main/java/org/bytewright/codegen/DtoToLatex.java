@@ -35,8 +35,11 @@ public class DtoToLatex {
   }
 
   private Pair<Integer, String> toLatexSection(SpellDefinition spellDefinition) {
-    return Pair.of(Integer.valueOf(spellDefinition.getStufe()), "" +
-        String.format("\\section*{%s}\n", spellDefinition.getName())
+    return Pair.of(Integer.valueOf(spellDefinition.getStufe()), generateLatexCode(spellDefinition));
+  }
+
+  private String generateLatexCode(SpellDefinition spellDefinition) {
+    return String.format("\\section*{%s}\n", spellDefinition.getName())
         + String.format("\\ThisLRCornerWallPaper{0.5}{images/%s.png}\n", spellDefinition.getSchuleLink())
         + "\\begin{multicols}{2}\n"
         + "\t\\setlength{\\parindent}{0pt}\n"
@@ -63,6 +66,6 @@ public class DtoToLatex {
         + "{\\noindent \\small\n"
         + String.format("EN: %s (S.%s)\\\\\n", spellDefinition.getNameEn(), spellDefinition.getSeiteEn())
         + String.format("Mögliche Klassen: %s\n", spellDefinition.getKlasse())
-        + "}\n");
+        + "}\n";
   }
 }

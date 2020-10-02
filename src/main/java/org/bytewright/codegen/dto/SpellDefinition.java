@@ -4,11 +4,11 @@ import com.opencsv.bean.CsvBindByPosition;
 
 public class SpellDefinition {
   @CsvBindByPosition(position = 0)
-  private String name;
-  @CsvBindByPosition(position = 1)
-  private String nameEn;
-  @CsvBindByPosition(position = 2)
   private String stufe;
+  @CsvBindByPosition(position = 1)
+  private String name;
+  @CsvBindByPosition(position = 2)
+  private String nameEn;
   @CsvBindByPosition(position = 3)
   private String klasse;
   @CsvBindByPosition(position = 4)
