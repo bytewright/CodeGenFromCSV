@@ -11,3 +11,5 @@ csv replacing ...needs improvement:
 + => \n\\
 ````
 latexcode on https://www.overleaf.com/read/bzhrfvdqcbjw
+
+http://dnd5e.wikidot.com/spell:green-flame-blade
